@@ -1,1832 +1,369 @@
 [
-  {
-    "dia": 1,
-    "texto": "Pois sei os planos que tenho para vocês, diz o Senhor, planos de fazê-los prosperar e não de causar dano, planos de dar a vocês esperança e um futuro.",
-    "ref": "Jeremias 29:11"
-  },
-  {
-    "dia": 2,
-    "texto": "O Senhor é o meu pastor; nada me faltará.",
-    "ref": "Salmos 23:1"
-  },
-  {
-    "dia": 3,
-    "texto": "Pois posso fazer tudo por meio de Cristo, que me fortalece.",
-    "ref": "Filipenses 4:13"
-  },
-  {
-    "dia": 4,
-    "texto": "Não tenha medo, pois estou com você. Não se desespere, pois eu sou o seu Deus. Vou fortalecê-lo, vou ajudá-lo.",
-    "ref": "Isaías 41:10"
-  },
-  {
-    "dia": 5,
-    "texto": "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento.",
-    "ref": "Provérbios 3:5"
-  },
-  {
-    "dia": 6,
-    "texto": "Entregue ao Senhor tudo o que você faz; confie nele, e ele o ajudará.",
-    "ref": "Salmos 37:5"
-  },
-  {
-    "dia": 7,
-    "texto": "Que o Senhor te abençoe e te guarde. Que o Senhor faça brilhar o seu rosto sobre você e te seja gracioso.",
-    "ref": "Números 6:24-25"
-  },
-  {
-    "dia": 8,
-    "texto": "Busquem o Reino de Deus acima de tudo o mais, e ele lhes dará tudo o que precisam.",
-    "ref": "Mateus 6:33"
-  },
-  {
-    "dia": 9,
-    "texto": "Deus é o nosso refúgio e a nossa força, uma ajuda sempre presente em tempos de dificuldade.",
-    "ref": "Salmos 46:1"
-  },
-  {
-    "dia": 10,
-    "texto": "Entreguem todas as suas preocupações a Deus, pois ele tem cuidado de vocês.",
-    "ref": "1 Pedro 5:7"
-  },
-  {
-    "dia": 11,
-    "texto": "O Senhor mesmo irá à sua frente. Ele estará com você; nunca o deixará nem o abandonará.",
-    "ref": "Deuteronômio 31:8"
-  },
-  {
-    "dia": 12,
-    "texto": "Mas os que confiam no Senhor renovarão as suas forças; subirão com asas como águias; correrão e não se cansarão.",
-    "ref": "Isaías 40:31"
-  },
-  {
-    "dia": 13,
-    "texto": "E o meu Deus suprirá todas as suas necessidades de acordo com as suas riquezas em glória em Cristo Jesus.",
-    "ref": "Filipenses 4:19"
-  },
-  {
-    "dia": 14,
-    "texto": "Pois Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.",
-    "ref": "João 3:16"
-  },
-  {
-    "dia": 15,
-    "texto": "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a força da minha vida; de quem me recearei?",
-    "ref": "Salmos 27:1"
-  },
-  {
-    "dia": 16,
-    "texto": "Clame a mim e eu lhe responderei e lhe revelarei coisas grandes e ocultas que você não conhece.",
-    "ref": "Jeremias 33:3"
-  },
-  {
-    "dia": 17,
-    "texto": "Porque para Deus nada é impossível.",
-    "ref": "Lucas 1:37"
-  },
-  {
-    "dia": 18,
-    "texto": "O Senhor vai combater por você; basta que você fique quieto.",
-    "ref": "Êxodo 14:14"
-  },
-  {
-    "dia": 19,
-    "texto": "Lancem sobre o Senhor o seu fardo, e ele o sustentará; jamais permitirá que o justo caia.",
-    "ref": "Salmos 55:22"
-  },
-  {
-    "dia": 20,
-    "texto": "Continuem pedindo e receberão o que pediram; continuem procurando e encontrarão; continuem batendo e a porta será aberta.",
-    "ref": "Mateus 7:7"
-  },
-  {
-    "dia": 21,
-    "texto": "O Senhor é bom, um refúgio nos tempos de angústia. Ele cuida dos que nele confiam.",
-    "ref": "Naum 1:7"
-  },
-  {
-    "dia": 22,
-    "texto": "Deleite-se no Senhor, e ele lhe concederá os desejos do seu coração.",
-    "ref": "Salmos 37:4"
-  },
-  {
-    "dia": 23,
-    "texto": "E sabemos que Deus age em todas as coisas para o bem daqueles que o amam.",
-    "ref": "Romanos 8:28"
-  },
-  {
-    "dia": 24,
-    "texto": "Sede fortes e corajosos. Não tenham medo nem fiquem apavorados, pois o Senhor, o seu Deus, estará com vocês por onde forem.",
-    "ref": "Josué 1:9"
-  },
-  {
-    "dia": 25,
-    "texto": "O meu Deus proverá todas as vossas necessidades segundo as riquezas da sua glória em Cristo Jesus.",
-    "ref": "Filipenses 4:19"
-  },
-  {
-    "dia": 26,
-    "texto": "Mas aquele que beber da água que eu lhe darei nunca mais terá sede. A água que eu lhe darei se tornará nele uma fonte de água que jorra para a vida eterna.",
-    "ref": "João 4:14"
-  },
-  {
-    "dia": 27,
-    "texto": "O Senhor te guardará de todo o mal; ele guardará a tua alma. O Senhor guardará a tua saída e a tua entrada.",
-    "ref": "Salmos 121:7-8"
-  },
-  {
-    "dia": 28,
-    "texto": "Não fiquem ansiosos por coisa alguma, mas em tudo, pela oração e súplicas, com ações de graças, apresentem seus pedidos a Deus.",
-    "ref": "Filipenses 4:6"
-  },
-  {
-    "dia": 29,
-    "texto": "Pois eu, o Senhor seu Deus, seguro a sua mão direita e lhe digo: não tenha medo; eu o ajudarei.",
-    "ref": "Isaías 41:13"
-  },
-  {
-    "dia": 30,
-    "texto": "Grandes são os planos que você fez, ó Senhor meu Deus. Suas maravilhas e seus desígnios para conosco — ninguém se compara a você!",
-    "ref": "Salmos 40:5"
-  },
-  {
-    "dia": 31,
-    "texto": "O Senhor abençoará o seu povo com paz.",
-    "ref": "Salmos 29:11"
-  },
-  {
-    "dia": 32,
-    "texto": "Pois os olhos do Senhor percorrem toda a terra para fortalecer aqueles cujo coração é completamente dedicado a ele.",
-    "ref": "2 Crônicas 16:9"
-  },
-  {
-    "dia": 33,
-    "texto": "Aquele que começou a boa obra em vocês irá completá-la até o dia de Cristo Jesus.",
-    "ref": "Filipenses 1:6"
-  },
-  {
-    "dia": 34,
-    "texto": "O Senhor é compassivo e misericordioso, paciente e cheio de amor.",
-    "ref": "Salmos 103:8"
-  },
-  {
-    "dia": 35,
-    "texto": "Porque os montes podem se afastar e os outeiros podem vacilar, mas o meu amor por você nunca se afastará.",
-    "ref": "Isaías 54:10"
-  },
-  {
-    "dia": 36,
-    "texto": "Venham a mim, todos os que estão cansados e sobrecarregados, e eu darei descanso a vocês.",
-    "ref": "Mateus 11:28"
-  },
-  {
-    "dia": 37,
-    "texto": "Ele cura os que têm o coração partido e cuida das suas feridas.",
-    "ref": "Salmos 147:3"
-  },
-  {
-    "dia": 38,
-    "texto": "O Senhor é perto de todos os que o invocam, de todos os que o invocam em verdade.",
-    "ref": "Salmos 145:18"
-  },
-  {
-    "dia": 39,
-    "texto": "Mas eu lhes digo: amem os seus inimigos e orem por aqueles que os perseguem.",
-    "ref": "Mateus 5:44"
-  },
-  {
-    "dia": 40,
-    "texto": "Portanto, já que temos um grande sumo sacerdote que subiu aos céus, Jesus, o Filho de Deus, firmemo-nos na fé que professamos.",
-    "ref": "Hebreus 4:14"
-  },
-  {
-    "dia": 41,
-    "texto": "O Senhor é justo em todos os seus caminhos e amoroso em tudo o que faz.",
-    "ref": "Salmos 145:17"
-  },
-  {
-    "dia": 42,
-    "texto": "Aquele que habita no esconderijo do Altíssimo e descansa à sombra do Todo-Poderoso pode dizer ao Senhor: és o meu refúgio e a minha fortaleza.",
-    "ref": "Salmos 91:1-2"
-  },
-  {
-    "dia": 43,
-    "texto": "Não temas, porque eu te remi; chamei-te pelo teu nome; tu és meu.",
-    "ref": "Isaías 43:1"
-  },
-  {
-    "dia": 44,
-    "texto": "Quando você passar pelas águas, eu estarei com você; quando passar pelos rios, eles não irão sobre você.",
-    "ref": "Isaías 43:2"
-  },
-  {
-    "dia": 45,
-    "texto": "O amor do Senhor dura para sempre com os que o temem, e a sua justiça com os filhos dos seus filhos.",
-    "ref": "Salmos 103:17"
-  },
-  {
-    "dia": 46,
-    "texto": "Pois o Senhor seu Deus é Deus dos deuses e Senhor dos senhores, o Deus grande, poderoso e temível.",
-    "ref": "Deuteronômio 10:17"
-  },
-  {
-    "dia": 47,
-    "texto": "Deus não nos deu o espírito de covardia, mas de poder, de amor e de equilíbrio.",
-    "ref": "2 Timóteo 1:7"
-  },
-  {
-    "dia": 48,
-    "texto": "E a paz de Deus, que excede todo o entendimento, guardará os seus corações e as suas mentes em Cristo Jesus.",
-    "ref": "Filipenses 4:7"
-  },
-  {
-    "dia": 49,
-    "texto": "O Senhor é o meu ajudador; não temerei. O que me poderá fazer o homem?",
-    "ref": "Hebreus 13:6"
-  },
-  {
-    "dia": 50,
-    "texto": "Por isso, não desanimem. Embora por fora estejamos nos desgastando, por dentro estamos sendo renovados dia após dia.",
-    "ref": "2 Coríntios 4:16"
-  },
-  {
-    "dia": 51,
-    "texto": "Pois estou convicto de que nem morte nem vida, nem anjos nem demônios... poderá nos separar do amor de Deus.",
-    "ref": "Romanos 8:38-39"
-  },
-  {
-    "dia": 52,
-    "texto": "O Senhor teu Deus está no meio de ti, poderoso para salvar. Ele se deliciará em ti com alegria.",
-    "ref": "Sofonias 3:17"
-  },
-  {
-    "dia": 53,
-    "texto": "A graça do Senhor Jesus seja com o espírito de vocês.",
-    "ref": "Filemom 1:25"
-  },
-  {
-    "dia": 54,
-    "texto": "Mas, graças a Deus, que nos dá a vitória por meio de nosso Senhor Jesus Cristo.",
-    "ref": "1 Coríntios 15:57"
-  },
-  {
-    "dia": 55,
-    "texto": "Ora, aquele que é poderoso para fazer infinitamente mais do que tudo o que pedimos ou pensamos, de acordo com o seu poder que atua em nós.",
-    "ref": "Efésios 3:20"
-  },
-  {
-    "dia": 56,
-    "texto": "Porque nele vivemos, nos movemos e existimos.",
-    "ref": "Atos 17:28"
-  },
-  {
-    "dia": 57,
-    "texto": "O Senhor é fiel, e ele os fortalecerá e os protegerá do maligno.",
-    "ref": "2 Tessalonicenses 3:3"
-  },
-  {
-    "dia": 58,
-    "texto": "Mas o Senhor é fiel; ele cumprirá suas promessas e protegerá vocês.",
-    "ref": "2 Tessalonicenses 3:3"
-  },
-  {
-    "dia": 59,
-    "texto": "Mas aqueles que esperam no Senhor herdarão a terra.",
-    "ref": "Salmos 37:9"
-  },
-  {
-    "dia": 60,
-    "texto": "O jovem pode enfraquecer e cansar-se, e o homem forte pode cair exausto, mas os que esperam no Senhor renovarão as forças.",
-    "ref": "Isaías 40:30-31"
-  },
-  {
-    "dia": 61,
-    "texto": "Até a velhice e os cabelos brancos, eu sou o mesmo, eu carregarei vocês. Eu os fiz e cuidarei de vocês.",
-    "ref": "Isaías 46:4"
-  },
-  {
-    "dia": 62,
-    "texto": "Mas tu, Senhor, és escudo ao redor de mim, minha glória e aquele que me ergue a cabeça.",
-    "ref": "Salmos 3:3"
-  },
-  {
-    "dia": 63,
-    "texto": "O Senhor reina para sempre, o seu Deus é Rei por todas as gerações.",
-    "ref": "Salmos 146:10"
-  },
-  {
-    "dia": 64,
-    "texto": "Sei viver na pobreza e sei viver na abundância. Em tudo e em todas as circunstâncias aprendi o segredo de estar satisfeito.",
-    "ref": "Filipenses 4:12"
-  },
-  {
-    "dia": 65,
-    "texto": "Pois onde estiverem dois ou três reunidos em meu nome, ali estou no meio deles.",
-    "ref": "Mateus 18:20"
-  },
-  {
-    "dia": 66,
-    "texto": "O Senhor não demora em cumprir a sua promessa, como pensam alguns. Pelo contrário, ele é paciente com vocês.",
-    "ref": "2 Pedro 3:9"
-  },
-  {
-    "dia": 67,
-    "texto": "Porque tudo o que for pedido em oração, crendo, será recebido.",
-    "ref": "Mateus 21:22"
-  },
-  {
-    "dia": 68,
-    "texto": "Nunca deixarei de fazer o bem a eles, e plantarei neles o desejo de me temer, para que nunca se afastem de mim.",
-    "ref": "Jeremias 32:40"
-  },
-  {
-    "dia": 69,
-    "texto": "Pois Cristo é o fim da lei, para justiça de todo aquele que crê.",
-    "ref": "Romanos 10:4"
-  },
-  {
-    "dia": 70,
-    "texto": "Mas, se confessarmos os nossos pecados, ele é fiel e justo para perdoar os nossos pecados e nos purificar de toda injustiça.",
-    "ref": "1 João 1:9"
-  },
-  {
-    "dia": 71,
-    "texto": "Portanto, não há condenação alguma para os que estão em Cristo Jesus.",
-    "ref": "Romanos 8:1"
-  },
-  {
-    "dia": 72,
-    "texto": "Porque pela graça vocês são salvos, por meio da fé; isso não vem de vocês, é dom de Deus.",
-    "ref": "Efésios 2:8"
-  },
-  {
-    "dia": 73,
-    "texto": "Guarda-me como a menina dos olhos; esconde-me à sombra das tuas asas.",
-    "ref": "Salmos 17:8"
-  },
-  {
-    "dia": 74,
-    "texto": "Pois o Senhor seu Deus andou no meio do seu acampamento para os livrar e para lhes dar a vitória sobre os seus inimigos.",
-    "ref": "Deuteronômio 23:14"
-  },
-  {
-    "dia": 75,
-    "texto": "Todos os seus filhos serão ensinados pelo Senhor, e grande será a paz de seus filhos.",
-    "ref": "Isaías 54:13"
-  },
-  {
-    "dia": 76,
-    "texto": "O Senhor abre os olhos dos cegos. O Senhor levanta os que estão abatidos.",
-    "ref": "Salmos 146:8"
-  },
-  {
-    "dia": 77,
-    "texto": "Quão preciosos, ó Deus, são os teus pensamentos para mim! Quão grande é a soma deles!",
-    "ref": "Salmos 139:17"
-  },
-  {
-    "dia": 78,
-    "texto": "Pois você é um povo santo para o Senhor seu Deus. O Senhor seu Deus o escolheu para ser o seu povo especial.",
-    "ref": "Deuteronômio 7:6"
-  },
-  {
-    "dia": 79,
-    "texto": "O Senhor, o seu Deus, está no meio de vocês como um guerreiro poderoso que salva.",
-    "ref": "Sofonias 3:17"
-  },
-  {
-    "dia": 80,
-    "texto": "Mas em tudo isso somos mais que vencedores por meio daquele que nos amou.",
-    "ref": "Romanos 8:37"
-  },
-  {
-    "dia": 81,
-    "texto": "E o meu Deus suprirá cada necessidade de vocês conforme as riquezas da sua glória em Cristo Jesus.",
-    "ref": "Filipenses 4:19"
-  },
-  {
-    "dia": 82,
-    "texto": "Porque é Deus quem opera em vocês tanto o querer quanto o realizar, de acordo com o seu bom propósito.",
-    "ref": "Filipenses 2:13"
-  },
-  {
-    "dia": 83,
-    "texto": "O Senhor sustenta todos os que caem e levanta todos os abatidos.",
-    "ref": "Salmos 145:14"
-  },
-  {
-    "dia": 84,
-    "texto": "Pois os olhos do Senhor estão sobre os justos, e os seus ouvidos atentos ao clamor deles.",
-    "ref": "1 Pedro 3:12"
-  },
-  {
-    "dia": 85,
-    "texto": "O Senhor protege todos os que o amam, mas destruirá todos os ímpios.",
-    "ref": "Salmos 145:20"
-  },
-  {
-    "dia": 86,
-    "texto": "Pois o Senhor não rejeita para sempre. Embora cause tristeza, ele também tem compaixão.",
-    "ref": "Lamentações 3:31-32"
-  },
-  {
-    "dia": 87,
-    "texto": "Pois as misericórdias do Senhor nunca chegam ao fim; as suas compaixões nunca se esgotam; são novas a cada manhã.",
-    "ref": "Lamentações 3:22-23"
-  },
-  {
-    "dia": 88,
-    "texto": "O Senhor é bom para aqueles cuja esperança está nele, para quem o busca.",
-    "ref": "Lamentações 3:25"
-  },
-  {
-    "dia": 89,
-    "texto": "Antes de eu te formar no ventre, eu te conheci; antes de nasceres, eu te separei.",
-    "ref": "Jeremias 1:5"
-  },
-  {
-    "dia": 90,
-    "texto": "E vocês me buscarão e me encontrarão quando me buscarem de todo o coração.",
-    "ref": "Jeremias 29:13"
-  },
-  {
-    "dia": 91,
-    "texto": "Porque eu satisfarei a alma cansada e reabastecerei toda alma entristecida.",
-    "ref": "Jeremias 31:25"
-  },
-  {
-    "dia": 92,
-    "texto": "O Senhor edificará a tua casa, e a tua família será grande.",
-    "ref": "2 Samuel 7:11"
-  },
-  {
-    "dia": 93,
-    "texto": "Portanto, se alguém está em Cristo, é nova criação. As coisas antigas passaram; eis que surgiram coisas novas!",
-    "ref": "2 Coríntios 5:17"
-  },
-  {
-    "dia": 94,
-    "texto": "E o Deus de toda graça, que os chamou para a sua glória eterna em Cristo, depois de sofrerem um pouco, os restaurará.",
-    "ref": "1 Pedro 5:10"
-  },
-  {
-    "dia": 95,
-    "texto": "Porém, de uma coisa estou certo: o Senhor me mostrará a sua bondade enquanto estou aqui, na terra dos viventes.",
-    "ref": "Salmos 27:13"
-  },
-  {
-    "dia": 96,
-    "texto": "Pois tu, Senhor, és bom e estás pronto a perdoar, e és misericordioso para com todos os que te invocam.",
-    "ref": "Salmos 86:5"
-  },
-  {
-    "dia": 97,
-    "texto": "Não se preocupem com o amanhã, pois o amanhã trará as suas próprias preocupações.",
-    "ref": "Mateus 6:34"
-  },
-  {
-    "dia": 98,
-    "texto": "E a esperança não nos decepciona, porque Deus derramou o seu amor em nossos corações.",
-    "ref": "Romanos 5:5"
-  },
-  {
-    "dia": 99,
-    "texto": "Jesus Cristo é o mesmo ontem, hoje e para sempre.",
-    "ref": "Hebreus 13:8"
-  },
-  {
-    "dia": 100,
-    "texto": "Pois o Senhor seu Deus é misericordioso; ele não os abandonará nem os destruirá.",
-    "ref": "Deuteronômio 4:31"
-  },
-  {
-    "dia": 101,
-    "texto": "A sua palavra é uma lâmpada para os meus pés e uma luz para o meu caminho.",
-    "ref": "Salmos 119:105"
-  },
-  {
-    "dia": 102,
-    "texto": "Pois o plano do Senhor permanece para sempre; os projetos do seu coração por todas as gerações.",
-    "ref": "Salmos 33:11"
-  },
-  {
-    "dia": 103,
-    "texto": "Porque o Senhor é bom; a sua misericórdia é eterna; a sua fidelidade vai até as gerações.",
-    "ref": "Salmos 100:5"
-  },
-  {
-    "dia": 104,
-    "texto": "O Senhor salvará o seu povo e o abençoará com paz.",
-    "ref": "Salmos 29:11"
-  },
-  {
-    "dia": 105,
-    "texto": "O Senhor está perto dos que têm o coração quebrantado e salva os de espírito abatido.",
-    "ref": "Salmos 34:18"
-  },
-  {
-    "dia": 106,
-    "texto": "Se Deus é por nós, quem será contra nós?",
-    "ref": "Romanos 8:31"
-  },
-  {
-    "dia": 107,
-    "texto": "Aquele que não poupou o seu próprio Filho, mas o entregou por todos nós, como não nos dará também todas as coisas com ele?",
-    "ref": "Romanos 8:32"
-  },
-  {
-    "dia": 108,
-    "texto": "Pois eu sou o Senhor, o seu Deus, que o sustento pela mão direita e lhe digo: não tenha medo, eu o ajudarei.",
-    "ref": "Isaías 41:13"
-  },
-  {
-    "dia": 109,
-    "texto": "O Senhor guiará sempre o seu caminho; saciará o seu desejo em lugares áridos.",
-    "ref": "Isaías 58:11"
-  },
-  {
-    "dia": 110,
-    "texto": "Porque eu derramarei água sobre a terra sedenta e torrentes sobre a terra seca; derramarei o meu Espírito sobre os seus descendentes.",
-    "ref": "Isaías 44:3"
-  },
-  {
-    "dia": 111,
-    "texto": "O Senhor fará de você a cabeça e não a cauda; você estará sempre em cima e nunca embaixo.",
-    "ref": "Deuteronômio 28:13"
-  },
-  {
-    "dia": 112,
-    "texto": "Mas o homem que confia no Senhor, cuja esperança é o Senhor, é abençoado.",
-    "ref": "Jeremias 17:7"
-  },
-  {
-    "dia": 113,
-    "texto": "Honre o Senhor com os seus bens e com as primícias de toda a sua renda; assim os seus celeiros serão fartos.",
-    "ref": "Provérbios 3:9-10"
-  },
-  {
-    "dia": 114,
-    "texto": "Tragam o dízimo integral ao depósito do templo, para que haja alimento na minha casa. Teste-me nisso, diz o Senhor.",
-    "ref": "Malaquias 3:10"
-  },
-  {
-    "dia": 115,
-    "texto": "Pois o Senhor Deus é como o sol e escudo; o Senhor concede graça e glória. Ele não recusa nenhum bem aos que andam com integridade.",
-    "ref": "Salmos 84:11"
-  },
-  {
-    "dia": 116,
-    "texto": "Mas os que temem ao Senhor nada lhes faltará.",
-    "ref": "Salmos 34:9"
-  },
-  {
-    "dia": 117,
-    "texto": "O Senhor abençoa a casa dos justos.",
-    "ref": "Provérbios 3:33"
-  },
-  {
-    "dia": 118,
-    "texto": "Um só de vocês perseguirá mil, porque o Senhor, o seu Deus, combate por vocês, como lhes prometeu.",
-    "ref": "Josué 23:10"
-  },
-  {
-    "dia": 119,
-    "texto": "Não há nada que o amor não suporte; não há nada em que o amor não creia; não há nada que o amor não espere; não há nada que o amor não agüente.",
-    "ref": "1 Coríntios 13:7"
-  },
-  {
-    "dia": 120,
-    "texto": "Pois eu vivo para sempre no alto e no santo lugar, mas também com os contritos e humildes de espírito.",
-    "ref": "Isaías 57:15"
-  },
-  {
-    "dia": 121,
-    "texto": "O Senhor defende a causa dos oprimidos e dá comida aos famintos. O Senhor liberta os prisioneiros.",
-    "ref": "Salmos 146:7"
-  },
-  {
-    "dia": 122,
-    "texto": "Porque a visão ainda é para um tempo determinado, mas ao fim ela falará e não mentirá; se tardar, espere-a, porque certamente virá.",
-    "ref": "Habacuque 2:3"
-  },
-  {
-    "dia": 123,
-    "texto": "Pois o Senhor seu Deus está com você onde quer que você vá.",
-    "ref": "Josué 1:9"
-  },
-  {
-    "dia": 124,
-    "texto": "O Senhor é o teu guarda; o Senhor é a tua sombra à tua mão direita.",
-    "ref": "Salmos 121:5"
-  },
-  {
-    "dia": 125,
-    "texto": "Pois os planos de Deus são para a sua prosperidade, e os seus caminhos levam à vida.",
-    "ref": "Provérbios 10:28"
-  },
-  {
-    "dia": 126,
-    "texto": "Alegrai-vos sempre no Senhor! Outra vez digo: alegrai-vos!",
-    "ref": "Filipenses 4:4"
-  },
-  {
-    "dia": 127,
-    "texto": "O Senhor, o seu Deus, estará com você onde quer que for.",
-    "ref": "Josué 1:9"
-  },
-  {
-    "dia": 128,
-    "texto": "Deus não é homem, para que minta, nem filho do homem, para que se arrependa. Ele disse e não fará? Prometeu e não cumprirá?",
-    "ref": "Números 23:19"
-  },
-  {
-    "dia": 129,
-    "texto": "Pois o amor do Senhor envolve os que nele confiam.",
-    "ref": "Salmos 32:10"
-  },
-  {
-    "dia": 130,
-    "texto": "Que o Senhor de paz lhes dê paz sempre e em todas as circunstâncias.",
-    "ref": "2 Tessalonicenses 3:16"
-  },
-  {
-    "dia": 131,
-    "texto": "O Senhor cumprirá os seus propósitos para mim; Senhor, a tua misericórdia é eterna.",
-    "ref": "Salmos 138:8"
-  },
-  {
-    "dia": 132,
-    "texto": "Guarda o teu coração acima de tudo o mais, pois ele determina o rumo da sua vida.",
-    "ref": "Provérbios 4:23"
-  },
-  {
-    "dia": 133,
-    "texto": "O Senhor teu Deus é um Deus misericordioso; ele não o abandonará.",
-    "ref": "Deuteronômio 4:31"
-  },
-  {
-    "dia": 134,
-    "texto": "Reconheça-o em todos os seus caminhos, e ele aplainará as suas veredas.",
-    "ref": "Provérbios 3:6"
-  },
-  {
-    "dia": 135,
-    "texto": "O Senhor não abandona o seu povo, pois isso prejudicaria sua própria glória.",
-    "ref": "1 Samuel 12:22"
-  },
-  {
-    "dia": 136,
-    "texto": "Pois o Senhor não rejeita para sempre os seus servos, pois a sua compaixão é grande.",
-    "ref": "Lamentações 3:31-32"
-  },
-  {
-    "dia": 137,
-    "texto": "O coração do homem planeja o seu caminho, mas o Senhor determina os seus passos.",
-    "ref": "Provérbios 16:9"
-  },
-  {
-    "dia": 138,
-    "texto": "Pois a salvação pertence ao Senhor; que a tua bênção esteja sobre o teu povo.",
-    "ref": "Salmos 3:8"
-  },
-  {
-    "dia": 139,
-    "texto": "Invoca-me no dia da angústia; eu te livrarei, e tu me glorificarás.",
-    "ref": "Salmos 50:15"
-  },
-  {
-    "dia": 140,
-    "texto": "Confie ao Senhor os seus planos, e ele os realizará.",
-    "ref": "Salmos 37:5"
-  },
-  {
-    "dia": 141,
-    "texto": "O Senhor é o meu rochedo, a minha fortaleza e o meu libertador; o meu Deus é o meu rochedo.",
-    "ref": "Salmos 18:2"
-  },
-  {
-    "dia": 142,
-    "texto": "Ele te cobrirá com as suas penas, e sob as suas asas te refugiarás; a sua fidelidade é escudo e pavês.",
-    "ref": "Salmos 91:4"
-  },
-  {
-    "dia": 143,
-    "texto": "Portanto, aproximemo-nos do trono da graça com confiança, para que recebamos misericórdia.",
-    "ref": "Hebreus 4:16"
-  },
-  {
-    "dia": 144,
-    "texto": "Porque eu, o Senhor, não mudo; por isso, filhos de Jacó, vocês não são destruídos.",
-    "ref": "Malaquias 3:6"
-  },
-  {
-    "dia": 145,
-    "texto": "O eterno Deus é o seu refúgio, e por baixo estão os braços eternos.",
-    "ref": "Deuteronômio 33:27"
-  },
-  {
-    "dia": 146,
-    "texto": "A bênção do Senhor traz riqueza, e ele não acrescenta tristeza alguma a ela.",
-    "ref": "Provérbios 10:22"
-  },
-  {
-    "dia": 147,
-    "texto": "Mas o Senhor é fiel a todas as suas promessas e amoroso em tudo o que faz.",
-    "ref": "Salmos 145:13"
-  },
-  {
-    "dia": 148,
-    "texto": "O Senhor protege os simples; quando eu estava em perigo, ele me salvou.",
-    "ref": "Salmos 116:6"
-  },
-  {
-    "dia": 149,
-    "texto": "Aquele que começou a boa obra em vocês irá completá-la até o dia de Cristo Jesus.",
-    "ref": "Filipenses 1:6"
-  },
-  {
-    "dia": 150,
-    "texto": "Feliz aquele a quem o Deus de Jacó socorre, cuja esperança está no Senhor seu Deus.",
-    "ref": "Salmos 146:5"
-  },
-  {
-    "dia": 151,
-    "texto": "O Senhor fortalecerá e protegerá vocês do Maligno.",
-    "ref": "2 Tessalonicenses 3:3"
-  },
-  {
-    "dia": 152,
-    "texto": "Pois o Senhor ama a justiça e não abandona os seus santos; eles são protegidos para sempre.",
-    "ref": "Salmos 37:28"
-  },
-  {
-    "dia": 153,
-    "texto": "Porque o Espírito que vive em vocês é maior do que o espírito que vive no mundo.",
-    "ref": "1 João 4:4"
-  },
-  {
-    "dia": 154,
-    "texto": "Pois quem nasceu de Deus vence o mundo. E a vitória que vence o mundo é a nossa fé.",
-    "ref": "1 João 5:4"
-  },
-  {
-    "dia": 155,
-    "texto": "Não tema, pois eu estou com você; não desanime, pois eu sou o seu Deus.",
-    "ref": "Isaías 41:10"
-  },
-  {
-    "dia": 156,
-    "texto": "Pois eu sei que o meu Redentor vive, e no fim ele se levantará sobre a terra.",
-    "ref": "Jó 19:25"
-  },
-  {
-    "dia": 157,
-    "texto": "O Senhor dará graça e glória; nenhum bem recusará aos que andam em integridade.",
-    "ref": "Salmos 84:11"
-  },
-  {
-    "dia": 158,
-    "texto": "Pois o Senhor não abandona aqueles que confiam nele.",
-    "ref": "Salmos 9:10"
-  },
-  {
-    "dia": 159,
-    "texto": "Cria em mim, ó Deus, um coração puro, e renova um espírito firme dentro de mim.",
-    "ref": "Salmos 51:10"
-  },
-  {
-    "dia": 160,
-    "texto": "O Senhor dirige os passos dos íntegros e os protege em todos os seus caminhos.",
-    "ref": "Salmos 37:23"
-  },
-  {
-    "dia": 161,
-    "texto": "O Senhor redime a alma dos seus servos; nenhum dos que confiam nele será condenado.",
-    "ref": "Salmos 34:22"
-  },
-  {
-    "dia": 162,
-    "texto": "Pois a palavra de Deus é viva e eficaz, e mais afiada do que qualquer espada de dois gumes.",
-    "ref": "Hebreus 4:12"
-  },
-  {
-    "dia": 163,
-    "texto": "A graça de Deus que traz salvação apareceu a todos os homens.",
-    "ref": "Tito 2:11"
-  },
-  {
-    "dia": 164,
-    "texto": "Pois tudo posso naquele que me fortalece.",
-    "ref": "Filipenses 4:13"
-  },
-  {
-    "dia": 165,
-    "texto": "Onde está o Espírito do Senhor, aí há liberdade.",
-    "ref": "2 Coríntios 3:17"
-  },
-  {
-    "dia": 166,
-    "texto": "Pois o Senhor é quem dá sabedoria; da sua boca vêm o conhecimento e o entendimento.",
-    "ref": "Provérbios 2:6"
-  },
-  {
-    "dia": 167,
-    "texto": "A graça e a paz de Deus, nosso Pai, e do Senhor Jesus Cristo estejam com vocês.",
-    "ref": "Romanos 1:7"
-  },
-  {
-    "dia": 168,
-    "texto": "Porque nele habitam corporalmente toda a plenitude da divindade.",
-    "ref": "Colossenses 2:9"
-  },
-  {
-    "dia": 169,
-    "texto": "Pois Cristo habitará no coração de vocês pela fé, e vocês serão enraizados e alicerçados no amor.",
-    "ref": "Efésios 3:17"
-  },
-  {
-    "dia": 170,
-    "texto": "Porque vocês receberam o espírito de adoção, pelo qual clamamos: Aba, Pai!",
-    "ref": "Romanos 8:15"
-  },
-  {
-    "dia": 171,
-    "texto": "Pois aquele que habita no esconderijo do Altíssimo descansará à sombra do Todo-Poderoso.",
-    "ref": "Salmos 91:1"
-  },
-  {
-    "dia": 172,
-    "texto": "O Senhor é minha força e minha canção; ele se tornou a minha salvação.",
-    "ref": "Êxodo 15:2"
-  },
-  {
-    "dia": 173,
-    "texto": "Não vos lembreis das coisas passadas, nem considereis as antigas. Eis que faço coisa nova.",
-    "ref": "Isaías 43:18-19"
-  },
-  {
-    "dia": 174,
-    "texto": "O Senhor abrirá para você o seu bom tesouro — os céus — para enviar chuva sobre a sua terra no tempo certo.",
-    "ref": "Deuteronômio 28:12"
-  },
-  {
-    "dia": 175,
-    "texto": "Pois ele ordenará que os seus anjos cuidem de você em todos os seus caminhos.",
-    "ref": "Salmos 91:11"
-  },
-  {
-    "dia": 176,
-    "texto": "O Senhor seu Deus irá à frente de você. Ele não o deixará nem o abandonará.",
-    "ref": "Deuteronômio 31:6"
-  },
-  {
-    "dia": 177,
-    "texto": "E sei que é para o meu bem que você me aflige. Que a tua promessa me consolide.",
-    "ref": "Salmos 119:71"
-  },
-  {
-    "dia": 178,
-    "texto": "Pois nós somos feitura de Deus, criados em Cristo Jesus para boas obras.",
-    "ref": "Efésios 2:10"
-  },
-  {
-    "dia": 179,
-    "texto": "Porque o Senhor é o teu guarda; o Senhor é a tua sombra à tua mão direita.",
-    "ref": "Salmos 121:5"
-  },
-  {
-    "dia": 180,
-    "texto": "Pois o Senhor não rejeita para sempre. Ele causa tristeza, mas depois tem compaixão.",
-    "ref": "Lamentações 3:31-32"
-  },
-  {
-    "dia": 181,
-    "texto": "O Senhor é o meu auxílio; não temerei o que o homem me possa fazer.",
-    "ref": "Salmos 118:6"
-  },
-  {
-    "dia": 182,
-    "texto": "O Senhor é próximo de todos os que o invocam, de todos os que o invocam em verdade.",
-    "ref": "Salmos 145:18"
-  },
-  {
-    "dia": 183,
-    "texto": "Pois o Senhor ama o direito e não abandona os seus santos; eles são guardados para sempre.",
-    "ref": "Salmos 37:28"
-  },
-  {
-    "dia": 184,
-    "texto": "Contudo, o Senhor está esperando para ter misericórdia de você; está se levantando para mostrar compaixão.",
-    "ref": "Isaías 30:18"
-  },
-  {
-    "dia": 185,
-    "texto": "O Senhor é a minha porção, diz a minha alma; portanto esperarei nele.",
-    "ref": "Lamentações 3:24"
-  },
-  {
-    "dia": 186,
-    "texto": "Pois os olhos do Senhor percorrem toda a terra para mostrar-se forte a favor dos que têm o coração perfeito para com ele.",
-    "ref": "2 Crônicas 16:9"
-  },
-  {
-    "dia": 187,
-    "texto": "Eu sou o pão da vida. Aquele que vem a mim nunca terá fome, e aquele que crê em mim nunca terá sede.",
-    "ref": "João 6:35"
-  },
-  {
-    "dia": 188,
-    "texto": "Pois eu sou o Senhor que o cura.",
-    "ref": "Êxodo 15:26"
-  },
-  {
-    "dia": 189,
-    "texto": "Mas ele foi ferido por causa das nossas transgressões; foi esmagado por causa das nossas iniquidades. O castigo que nos traz a paz estava sobre ele, e pelas suas feridas fomos curados.",
-    "ref": "Isaías 53:5"
-  },
-  {
-    "dia": 190,
-    "texto": "O Senhor edificará a casa; se o Senhor não edificar a casa, em vão trabalham os que a edificam.",
-    "ref": "Salmos 127:1"
-  },
-  {
-    "dia": 191,
-    "texto": "Pois a misericórdia do Senhor é do eterno ao eterno sobre os que o temem.",
-    "ref": "Salmos 103:17"
-  },
-  {
-    "dia": 192,
-    "texto": "Não se preocupe com nada, mas em tudo, pela oração e súplicas com ação de graças, apresente seus pedidos a Deus.",
-    "ref": "Filipenses 4:6"
-  },
-  {
-    "dia": 193,
-    "texto": "Porque o Senhor conhece o caminho dos justos, mas o caminho dos ímpios perecerá.",
-    "ref": "Salmos 1:6"
-  },
-  {
-    "dia": 194,
-    "texto": "Pois o Senhor seu Deus está com você onde quer que você vá.",
-    "ref": "Josué 1:9"
-  },
-  {
-    "dia": 195,
-    "texto": "Mas eu exultarei no Senhor; me alegrarei no Deus da minha salvação.",
-    "ref": "Habacuque 3:18"
-  },
-  {
-    "dia": 196,
-    "texto": "O Senhor tornará o seu nome grande, e você será uma bênção.",
-    "ref": "Gênesis 12:2"
-  },
-  {
-    "dia": 197,
-    "texto": "Pois o Senhor é bom para com todos, e as suas misericórdias estão sobre todas as suas obras.",
-    "ref": "Salmos 145:9"
-  },
-  {
-    "dia": 198,
-    "texto": "Porque o Senhor seu Deus é o Deus dos deuses e o Senhor dos senhores, o grande Deus, poderoso e terrível.",
-    "ref": "Deuteronômio 10:17"
-  },
-  {
-    "dia": 199,
-    "texto": "Jamais te abandonarei; jamais te deixarei.",
-    "ref": "Hebreus 13:5"
-  },
-  {
-    "dia": 200,
-    "texto": "Porque eu, o Senhor seu Deus, sou um Deus zeloso, mas mostro misericórdia por mil gerações àqueles que me amam.",
-    "ref": "Êxodo 20:5-6"
-  },
-  {
-    "dia": 201,
-    "texto": "O Senhor abençoará os que temem a ele, tanto pequenos quanto grandes.",
-    "ref": "Salmos 115:13"
-  },
-  {
-    "dia": 202,
-    "texto": "Minha graça é suficiente para você, pois o meu poder se aperfeiçoa na fraqueza.",
-    "ref": "2 Coríntios 12:9"
-  },
-  {
-    "dia": 203,
-    "texto": "Por isso, aquele que pensa estar firme tome cuidado para não cair.",
-    "ref": "1 Coríntios 10:12"
-  },
-  {
-    "dia": 204,
-    "texto": "Pois o Senhor dá sabedoria; da sua boca vêm o conhecimento e o entendimento.",
-    "ref": "Provérbios 2:6"
-  },
-  {
-    "dia": 205,
-    "texto": "Mas, se algum de vocês tem falta de sabedoria, peça-a a Deus, que a todos dá livremente.",
-    "ref": "Tiago 1:5"
-  },
-  {
-    "dia": 206,
-    "texto": "O Senhor está contigo, homem valente!",
-    "ref": "Juízes 6:12"
-  },
-  {
-    "dia": 207,
-    "texto": "Pois os montes podem se afastar e os outeiros podem ser removidos, mas a minha misericórdia não se afastará de você.",
-    "ref": "Isaías 54:10"
-  },
-  {
-    "dia": 208,
-    "texto": "Pois o Senhor seu Deus é misericordioso; ele não o abandonará nem o destruirá.",
-    "ref": "Deuteronômio 4:31"
-  },
-  {
-    "dia": 209,
-    "texto": "Porque para Deus nada é impossível.",
-    "ref": "Lucas 1:37"
-  },
-  {
-    "dia": 210,
-    "texto": "Aproxime-se de Deus, e ele se aproximará de você.",
-    "ref": "Tiago 4:8"
-  },
-  {
-    "dia": 211,
-    "texto": "Pois o amor de Deus foi derramado em nossos corações pelo Espírito Santo.",
-    "ref": "Romanos 5:5"
-  },
-  {
-    "dia": 212,
-    "texto": "O Senhor te guardará de todo o mal; ele guardará a tua alma.",
-    "ref": "Salmos 121:7"
-  },
-  {
-    "dia": 213,
-    "texto": "Pois assim diz o Senhor: eis que estenderei a paz sobre ela como um rio.",
-    "ref": "Isaías 66:12"
-  },
-  {
-    "dia": 214,
-    "texto": "E aquele que busca o Senhor não faltará de nenhum bem.",
-    "ref": "Salmos 34:10"
-  },
-  {
-    "dia": 215,
-    "texto": "Pois você não receberá o espírito de escravidão para temer outra vez, mas recebeu o espírito de adoção.",
-    "ref": "Romanos 8:15"
-  },
-  {
-    "dia": 216,
-    "texto": "Ele que não poupou o seu próprio Filho, mas o entregou por nós todos.",
-    "ref": "Romanos 8:32"
-  },
-  {
-    "dia": 217,
-    "texto": "A paz vos deixo, a minha paz vos dou; não vo-la dou como o mundo a dá.",
-    "ref": "João 14:27"
-  },
-  {
-    "dia": 218,
-    "texto": "Pois o Senhor seu Deus carregará vocês como um pai carrega seu filho.",
-    "ref": "Deuteronômio 1:31"
-  },
-  {
-    "dia": 219,
-    "texto": "Cheguemos, pois, confiadamente ao trono da graça, a fim de recebermos misericórdia.",
-    "ref": "Hebreus 4:16"
-  },
-  {
-    "dia": 220,
-    "texto": "Pois o Senhor não permitirá que o pé do justo vacile; aquele que te guarda não dormirá.",
-    "ref": "Salmos 121:3"
-  },
-  {
-    "dia": 221,
-    "texto": "O Senhor teu Deus está no meio de ti, poderoso para salvar; ele se deliciará em ti com alegria.",
-    "ref": "Sofonias 3:17"
-  },
-  {
-    "dia": 222,
-    "texto": "Pois eu derramarei água sobre a terra sedenta e torrentes sobre a terra seca; derramarei o meu Espírito sobre a sua descendência.",
-    "ref": "Isaías 44:3"
-  },
-  {
-    "dia": 223,
-    "texto": "Eis que faço uma coisa nova; ela está surgindo agora. Não a percebeis?",
-    "ref": "Isaías 43:19"
-  },
-  {
-    "dia": 224,
-    "texto": "E eu lhes darei um coração unido e porei um espírito novo dentro deles.",
-    "ref": "Ezequiel 11:19"
-  },
-  {
-    "dia": 225,
-    "texto": "Pois vocês são a vinha do Senhor dos exércitos, a plantação de que ele muito se alegra.",
-    "ref": "Isaías 5:7"
-  },
-  {
-    "dia": 226,
-    "texto": "O Senhor é refugio para os oprimidos, refúgio em tempos de tribulação.",
-    "ref": "Salmos 9:9"
-  },
-  {
-    "dia": 227,
-    "texto": "Pois o Senhor restaurará a saúde de vocês e curará as suas feridas.",
-    "ref": "Jeremias 30:17"
-  },
-  {
-    "dia": 228,
-    "texto": "Porque o Senhor é bom; a sua misericórdia dura para sempre e a sua fidelidade por todas as gerações.",
-    "ref": "Salmos 100:5"
-  },
-  {
-    "dia": 229,
-    "texto": "Pois a palavra do Senhor é reta, e todas as suas obras são fiéis.",
-    "ref": "Salmos 33:4"
-  },
-  {
-    "dia": 230,
-    "texto": "O Senhor abençoará a tua saída e a tua entrada, desde agora e para sempre.",
-    "ref": "Salmos 121:8"
-  },
-  {
-    "dia": 231,
-    "texto": "Pois o Senhor é sol e escudo; o Senhor concede favor e honra; nenhum bem ele nega àqueles que andam corretamente.",
-    "ref": "Salmos 84:11"
-  },
-  {
-    "dia": 232,
-    "texto": "E agora, ó Senhor Deus, a promessa que fizeste a teu servo e à sua casa, confirma-a para sempre.",
-    "ref": "2 Samuel 7:25"
-  },
-  {
-    "dia": 233,
-    "texto": "Pois o Senhor é bom com aqueles cuja esperança está nele, com aqueles que o buscam.",
-    "ref": "Lamentações 3:25"
-  },
-  {
-    "dia": 234,
-    "texto": "O Senhor estabelecerá você como seu povo santo, como prometeu a você.",
-    "ref": "Deuteronômio 28:9"
-  },
-  {
-    "dia": 235,
-    "texto": "Pois bem-aventurado o homem que acha sabedoria, e o homem que adquire entendimento.",
-    "ref": "Provérbios 3:13"
-  },
-  {
-    "dia": 236,
-    "texto": "O Senhor teu Deus abençoará tudo o que fizeres e estará contigo em tudo.",
-    "ref": "Deuteronômio 15:18"
-  },
-  {
-    "dia": 237,
-    "texto": "O Senhor recebe os seus pedidos e os responde; vocês gritarão de alegria.",
-    "ref": "Salmos 20:5"
-  },
-  {
-    "dia": 238,
-    "texto": "Pois o Senhor conhece os caminhos dos íntegros, e a herança deles durará para sempre.",
-    "ref": "Salmos 37:18"
-  },
-  {
-    "dia": 239,
-    "texto": "Não temas, porque eu te remi; chamei-te pelo nome, tu és meu.",
-    "ref": "Isaías 43:1"
-  },
-  {
-    "dia": 240,
-    "texto": "Pois ele dará ordens aos seus anjos para que te guardem em todos os teus caminhos.",
-    "ref": "Salmos 91:11"
-  },
-  {
-    "dia": 241,
-    "texto": "O Senhor é a minha força e o meu escudo; nele o meu coração confiou, e fui socorrido.",
-    "ref": "Salmos 28:7"
-  },
-  {
-    "dia": 242,
-    "texto": "Pois o Senhor é justo; ele ama a justiça; os retos verão o seu rosto.",
-    "ref": "Salmos 11:7"
-  },
-  {
-    "dia": 243,
-    "texto": "Mas o amor do Senhor é eterno para com os que o temem, e sua justiça para os filhos dos filhos.",
-    "ref": "Salmos 103:17"
-  },
-  {
-    "dia": 244,
-    "texto": "Alegrem-se na esperança, sejam pacientes na tribulação, perseverem na oração.",
-    "ref": "Romanos 12:12"
-  },
-  {
-    "dia": 245,
-    "texto": "Pois o Senhor ouve os necessitados e não despreza os seus cativos.",
-    "ref": "Salmos 69:33"
-  },
-  {
-    "dia": 246,
-    "texto": "Pois a promessa é para vocês e para os seus filhos, e para todos os que estão longe.",
-    "ref": "Atos 2:39"
-  },
-  {
-    "dia": 247,
-    "texto": "O Senhor cumprirá os seus propósitos para mim; a sua misericórdia, Senhor, dura para sempre.",
-    "ref": "Salmos 138:8"
-  },
-  {
-    "dia": 248,
-    "texto": "Pois o Senhor preserva os fiéis e paga com abundância os que agem com arrogância.",
-    "ref": "Salmos 31:23"
-  },
-  {
-    "dia": 249,
-    "texto": "Pois assim diz o Alto e Sublime, que habita a eternidade e cujo nome é Santo: habito no alto e no santo lugar, mas também com o contrito e humilde de espírito.",
-    "ref": "Isaías 57:15"
-  },
-  {
-    "dia": 250,
-    "texto": "O Senhor sempre cumpre as suas promessas; é gracioso em tudo o que faz.",
-    "ref": "Salmos 145:13"
-  },
-  {
-    "dia": 251,
-    "texto": "Porque o Senhor não rejeita para sempre, pois, ainda que aflija, também tem compaixão.",
-    "ref": "Lamentações 3:31-32"
-  },
-  {
-    "dia": 252,
-    "texto": "E o Senhor te tornará a cabeça e não a cauda; estarás somente em cima e não embaixo.",
-    "ref": "Deuteronômio 28:13"
-  },
-  {
-    "dia": 253,
-    "texto": "Bendito seja o Senhor, que deu descanso ao seu povo Israel, conforme tudo o que prometeu.",
-    "ref": "1 Reis 8:56"
-  },
-  {
-    "dia": 254,
-    "texto": "Pois o Senhor é misericordioso e compassivo, lento para irar-se e cheio de amor.",
-    "ref": "Salmos 103:8"
-  },
-  {
-    "dia": 255,
-    "texto": "Porque eu sou o Senhor, o seu Deus, que o sustento pela mão direita e lhe digo: não tenha medo, eu o ajudarei.",
-    "ref": "Isaías 41:13"
-  },
-  {
-    "dia": 256,
-    "texto": "Mas o Senhor é fiel; ele os fortalecerá e os protegerá do maligno.",
-    "ref": "2 Tessalonicenses 3:3"
-  },
-  {
-    "dia": 257,
-    "texto": "O Senhor teu Deus abençoará você em tudo o que você fizer.",
-    "ref": "Deuteronômio 14:29"
-  },
-  {
-    "dia": 258,
-    "texto": "Pois o Senhor não abandona o seu povo, por amor do seu grande nome.",
-    "ref": "1 Samuel 12:22"
-  },
-  {
-    "dia": 259,
-    "texto": "Porque a minha graça é suficiente para você, pois o meu poder se aperfeiçoa na fraqueza.",
-    "ref": "2 Coríntios 12:9"
-  },
-  {
-    "dia": 260,
-    "texto": "O Senhor abrirá para você o seu bom tesouro para abençoar toda a obra das suas mãos.",
-    "ref": "Deuteronômio 28:12"
-  },
-  {
-    "dia": 261,
-    "texto": "Pois o Senhor é meu auxílio; não temerei o que o homem me possa fazer.",
-    "ref": "Hebreus 13:6"
-  },
-  {
-    "dia": 262,
-    "texto": "Porque o Espírito de Deus que habita em vocês é maior do que o espírito do mundo.",
-    "ref": "1 João 4:4"
-  },
-  {
-    "dia": 263,
-    "texto": "O Senhor é a tua sombra à tua mão direita; o sol não te ferirá de dia, nem a lua de noite.",
-    "ref": "Salmos 121:5-6"
-  },
-  {
-    "dia": 264,
-    "texto": "Não terei do que me envergonhar, pois Cristo será glorificado em meu corpo, seja pela vida, seja pela morte.",
-    "ref": "Filipenses 1:20"
-  },
-  {
-    "dia": 265,
-    "texto": "Mas aquele que perseverar até ao fim, esse será salvo.",
-    "ref": "Mateus 24:13"
-  },
-  {
-    "dia": 266,
-    "texto": "Pois o Senhor guarda os pés dos seus santos, mas os ímpios serão silenciados nas trevas.",
-    "ref": "1 Samuel 2:9"
-  },
-  {
-    "dia": 267,
-    "texto": "Pois o Senhor seu Deus combaterá por vocês, como fez diante dos seus olhos no Egito.",
-    "ref": "Deuteronômio 1:30"
-  },
-  {
-    "dia": 268,
-    "texto": "Pois o Senhor ama a justiça e não abandonará os seus fiéis; eles serão sempre protegidos.",
-    "ref": "Salmos 37:28"
-  },
-  {
-    "dia": 269,
-    "texto": "O Senhor é meu pastor, e nada me faltará. Em pastos verdejantes me faz repousar.",
-    "ref": "Salmos 23:1-2"
-  },
-  {
-    "dia": 270,
-    "texto": "Pois o próprio Deus da paz os santificará por completo, e que todo o seu espírito, alma e corpo sejam conservados irrepreensíveis.",
-    "ref": "1 Tessalonicenses 5:23"
-  },
-  {
-    "dia": 271,
-    "texto": "Pois o Senhor não abandona os que nele confiam; os que buscam o Senhor não faltarão de nenhum bem.",
-    "ref": "Salmos 34:10"
-  },
-  {
-    "dia": 272,
-    "texto": "A graça de nosso Senhor Jesus Cristo seja com o espírito de todos vocês.",
-    "ref": "Gálatas 6:18"
-  },
-  {
-    "dia": 273,
-    "texto": "E voltarei e os reconfortarei; aquele que estava de luto será consolado.",
-    "ref": "Mateus 5:4"
-  },
-  {
-    "dia": 274,
-    "texto": "Pois o Senhor não rejeita para sempre os que o buscam.",
-    "ref": "Salmos 9:10"
-  },
-  {
-    "dia": 275,
-    "texto": "O Senhor é o meu rochedo, a minha fortaleza e o meu libertador, o meu Deus, o meu rochedo em quem me refugio.",
-    "ref": "Salmos 18:2"
-  },
-  {
-    "dia": 276,
-    "texto": "Pois somos sua criação — criados em Cristo Jesus para boas obras, as quais Deus preparou de antemão para nós as praticarmos.",
-    "ref": "Efésios 2:10"
-  },
-  {
-    "dia": 277,
-    "texto": "O Senhor protege os estrangeiros; sustenta o órfão e a viúva, mas frustra os planos dos ímpios.",
-    "ref": "Salmos 146:9"
-  },
-  {
-    "dia": 278,
-    "texto": "Porque nele vivemos, nos movemos e existimos, como alguns dos seus próprios poetas disseram.",
-    "ref": "Atos 17:28"
-  },
-  {
-    "dia": 279,
-    "texto": "O Senhor é minha luz e minha salvação; a quem temerei? O Senhor é a força da minha vida.",
-    "ref": "Salmos 27:1"
-  },
-  {
-    "dia": 280,
-    "texto": "Pois o Senhor seu Deus estará com você onde quer que você for.",
-    "ref": "Josué 1:9"
-  },
-  {
-    "dia": 281,
-    "texto": "E a paz de Deus, que excede todo o entendimento, guardará os seus corações e as suas mentes em Cristo Jesus.",
-    "ref": "Filipenses 4:7"
-  },
-  {
-    "dia": 282,
-    "texto": "Porque o Senhor teu Deus está contigo; ele te abençoará na terra que você está prestes a entrar.",
-    "ref": "Deuteronômio 30:16"
-  },
-  {
-    "dia": 283,
-    "texto": "Pois o seu favor dura toda uma vida; o choro pode durar a noite, mas a alegria vem de manhã.",
-    "ref": "Salmos 30:5"
-  },
-  {
-    "dia": 284,
-    "texto": "O Senhor está perto de todos os que o chamam, de todos os que o chamam em verdade.",
-    "ref": "Salmos 145:18"
-  },
-  {
-    "dia": 285,
-    "texto": "Pois todo aquele que invocar o nome do Senhor será salvo.",
-    "ref": "Romanos 10:13"
-  },
-  {
-    "dia": 286,
-    "texto": "Pois o Senhor é bom para com todos; as suas misericórdias estão sobre todas as suas obras.",
-    "ref": "Salmos 145:9"
-  },
-  {
-    "dia": 287,
-    "texto": "O Senhor estabelecerá os seus passos; ele se agrada do seu caminho.",
-    "ref": "Salmos 37:23"
-  },
-  {
-    "dia": 288,
-    "texto": "Pois o Senhor, o teu Deus, te abençoará em toda a obra de tuas mãos.",
-    "ref": "Deuteronômio 16:15"
-  },
-  {
-    "dia": 289,
-    "texto": "Pois ninguém que espera em você ficará envergonhado, mas ficarão envergonhados os que transgridem sem motivo.",
-    "ref": "Salmos 25:3"
-  },
-  {
-    "dia": 290,
-    "texto": "Porque o Espírito Santo nos foi dado, e por meio dele Deus derramou seu amor em nossos corações.",
-    "ref": "Romanos 5:5"
-  },
-  {
-    "dia": 291,
-    "texto": "O Senhor é teu guarda; o Senhor é a tua sombra à tua mão direita.",
-    "ref": "Salmos 121:5"
-  },
-  {
-    "dia": 292,
-    "texto": "Pois o Senhor não nos esquece; sua bondade é eterna.",
-    "ref": "Salmos 136:23"
-  },
-  {
-    "dia": 293,
-    "texto": "Porque o Senhor cuida dos seus e nenhum dos que nele confiam será condenado.",
-    "ref": "Salmos 34:22"
-  },
-  {
-    "dia": 294,
-    "texto": "E Jesus disse: Eu sou a ressurreição e a vida. Aquele que crê em mim, ainda que morra, viverá.",
-    "ref": "João 11:25"
-  },
-  {
-    "dia": 295,
-    "texto": "Pois o Senhor dará o que é bom, e a nossa terra produzirá o seu fruto.",
-    "ref": "Salmos 85:12"
-  },
-  {
-    "dia": 296,
-    "texto": "Porque o Senhor está sempre com você e nunca o abandonará.",
-    "ref": "1 Crônicas 28:20"
-  },
-  {
-    "dia": 297,
-    "texto": "O Senhor é grande e muito digno de louvor; a sua grandeza é insondável.",
-    "ref": "Salmos 145:3"
-  },
-  {
-    "dia": 298,
-    "texto": "Pois o Senhor é teu sol e escudo; o Senhor concede favor e honra.",
-    "ref": "Salmos 84:11"
-  },
-  {
-    "dia": 299,
-    "texto": "Porque eu, o Senhor teu Deus, sou o teu Salvador; eu, o Santo de Israel, sou o teu Redentor.",
-    "ref": "Isaías 43:3"
-  },
-  {
-    "dia": 300,
-    "texto": "O Senhor é o teu pastor e proverá todas as tuas necessidades.",
-    "ref": "Salmos 23:1"
-  },
-  {
-    "dia": 301,
-    "texto": "Porque o Senhor é compassivo e misericordioso, tardo em irar-se e grande em amor.",
-    "ref": "Salmos 103:8"
-  },
-  {
-    "dia": 302,
-    "texto": "Pois o Senhor não nos abandona; ele nos sustenta com a sua mão poderosa.",
-    "ref": "Isaías 41:10"
-  },
-  {
-    "dia": 303,
-    "texto": "E o Senhor te prosperará em tudo o que fizeres, e darás empréstimo a muitas nações.",
-    "ref": "Deuteronômio 28:12"
-  },
-  {
-    "dia": 304,
-    "texto": "Porque o Senhor teu Deus te ama e guardará o seu pacto de amor por mil gerações.",
-    "ref": "Deuteronômio 7:9"
-  },
-  {
-    "dia": 305,
-    "texto": "Pois o Senhor ouve os necessitados e não despreza os seus servos presos.",
-    "ref": "Salmos 69:33"
-  },
-  {
-    "dia": 306,
-    "texto": "O Senhor te abençoará e te guardará; o Senhor fará brilhar o seu rosto sobre você.",
-    "ref": "Números 6:24-25"
-  },
-  {
-    "dia": 307,
-    "texto": "Porque o Senhor é bom; a sua misericórdia dura para sempre.",
-    "ref": "1 Crônicas 16:34"
-  },
-  {
-    "dia": 308,
-    "texto": "Pois o Senhor dará o que é bom e o guardará para os seus servos.",
-    "ref": "Salmos 31:19"
-  },
-  {
-    "dia": 309,
-    "texto": "Porque o Senhor cuida dos seus e os guia em todos os seus caminhos.",
-    "ref": "Salmos 37:23"
-  },
-  {
-    "dia": 310,
-    "texto": "O Senhor é justo em todos os seus caminhos e bondoso em todas as suas obras.",
-    "ref": "Salmos 145:17"
-  },
-  {
-    "dia": 311,
-    "texto": "Pois o Senhor não abandona quem o busca de todo o coração.",
-    "ref": "Salmos 9:10"
-  },
-  {
-    "dia": 312,
-    "texto": "E sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus.",
-    "ref": "Romanos 8:28"
-  },
-  {
-    "dia": 313,
-    "texto": "Pois o Senhor é o teu escudo; ele é a tua glória e aquele que te ergue a cabeça.",
-    "ref": "Salmos 3:3"
-  },
-  {
-    "dia": 314,
-    "texto": "Porque ele cobrirá você com suas penas, e sob suas asas você encontrará refúgio.",
-    "ref": "Salmos 91:4"
-  },
-  {
-    "dia": 315,
-    "texto": "O Senhor é a minha força e o meu cântico; ele se tornou a minha salvação.",
-    "ref": "Salmos 118:14"
-  },
-  {
-    "dia": 316,
-    "texto": "Pois o Senhor deu repouso ao seu povo Israel, conforme tudo o que prometeu.",
-    "ref": "1 Reis 8:56"
-  },
-  {
-    "dia": 317,
-    "texto": "Porque o Senhor é compassivo e bondoso; ele nos perdoa e nos cura.",
-    "ref": "Salmos 103:3"
-  },
-  {
-    "dia": 318,
-    "texto": "O Senhor cuida de quem o teme; sua misericórdia é eterna para eles.",
-    "ref": "Salmos 103:17"
-  },
-  {
-    "dia": 319,
-    "texto": "Pois o Senhor é o nosso protetor e o nosso ajudador em todos os momentos.",
-    "ref": "Salmos 121:2"
-  },
-  {
-    "dia": 320,
-    "texto": "Porque o Senhor estabelece os passos do homem justo e se agrada do seu caminho.",
-    "ref": "Salmos 37:23"
-  },
-  {
-    "dia": 321,
-    "texto": "O Senhor é a minha fortaleza e o meu refúgio; nele confio.",
-    "ref": "Salmos 91:2"
-  },
-  {
-    "dia": 322,
-    "texto": "Pois o Senhor amou tanto o mundo que deu o seu único Filho para nos salvar.",
-    "ref": "João 3:16"
-  },
-  {
-    "dia": 323,
-    "texto": "Porque o Senhor é bom; a sua bondade dura para sempre e a sua fidelidade por todas as gerações.",
-    "ref": "Salmos 100:5"
-  },
-  {
-    "dia": 324,
-    "texto": "O Senhor é o meu auxílio; não temerei o que o homem possa fazer.",
-    "ref": "Hebreus 13:6"
-  },
-  {
-    "dia": 325,
-    "texto": "Pois o Senhor é grande e muito digno de ser louvado; ele é temível acima de todos os deuses.",
-    "ref": "Salmos 96:4"
-  },
-  {
-    "dia": 326,
-    "texto": "Porque o Senhor é o meu pastor e nada me faltará em nenhum aspecto da minha vida.",
-    "ref": "Salmos 23:1"
-  },
-  {
-    "dia": 327,
-    "texto": "Pois o Senhor nos deu vitória em Cristo Jesus nosso Senhor.",
-    "ref": "1 Coríntios 15:57"
-  },
-  {
-    "dia": 328,
-    "texto": "Porque o Espírito que vive em vocês é maior do que o diabo que vive no mundo.",
-    "ref": "1 João 4:4"
-  },
-  {
-    "dia": 329,
-    "texto": "O Senhor é refúgio para os oprimidos e fortaleza nos tempos de angústia.",
-    "ref": "Salmos 9:9"
-  },
-  {
-    "dia": 330,
-    "texto": "Pois o Senhor nos libertou das garras do inimigo e nos conduziu com segurança.",
-    "ref": "Salmos 107:2"
-  },
-  {
-    "dia": 331,
-    "texto": "Porque o Senhor é fiel e cumprirá cada uma das suas promessas a você.",
-    "ref": "2 Tessalonicenses 3:3"
-  },
-  {
-    "dia": 332,
-    "texto": "O Senhor é compaixão e misericórdia; ele é lento para irar-se e rico em amor.",
-    "ref": "Êxodo 34:6"
-  },
-  {
-    "dia": 333,
-    "texto": "Pois o Senhor cura os corações partidos e cuida de cada ferida deles.",
-    "ref": "Salmos 147:3"
-  },
-  {
-    "dia": 334,
-    "texto": "Porque o Senhor é bom para aqueles que o buscam e confiam nele.",
-    "ref": "Lamentações 3:25"
-  },
-  {
-    "dia": 335,
-    "texto": "O Senhor te protegerá de todo o mal e guardará a tua alma.",
-    "ref": "Salmos 121:7"
-  },
-  {
-    "dia": 336,
-    "texto": "Pois o Senhor é meu pastor e me guiará pelos melhores caminhos de minha vida.",
-    "ref": "Salmos 23:3"
-  },
-  {
-    "dia": 337,
-    "texto": "Porque o Senhor é a tua sombra protetora; nada te atingirá sem a sua permissão.",
-    "ref": "Salmos 121:5"
-  },
-  {
-    "dia": 338,
-    "texto": "O Senhor abençoará o teu trabalho e a obra das tuas mãos.",
-    "ref": "Deuteronômio 28:12"
-  },
-  {
-    "dia": 339,
-    "texto": "Pois o Senhor nos dá graças e honra; ele não nega bênçãos aos que caminham em integridade.",
-    "ref": "Salmos 84:11"
-  },
-  {
-    "dia": 340,
-    "texto": "Porque o Senhor é o meu escudo e me protege de todo o mal.",
-    "ref": "Salmos 3:3"
-  },
-  {
-    "dia": 341,
-    "texto": "O Senhor é minha fortaleza e meu refúgio; nele encontro segurança.",
-    "ref": "Salmos 46:1"
-  },
-  {
-    "dia": 342,
-    "texto": "Pois o Senhor acompanhará cada passo do seu caminho e nunca o abandonará.",
-    "ref": "Josué 1:5"
-  },
-  {
-    "dia": 343,
-    "texto": "Porque o Senhor ama a justiça e cuida dos seus servos fiéis para sempre.",
-    "ref": "Salmos 37:28"
-  },
-  {
-    "dia": 344,
-    "texto": "O Senhor é minha rocha e minha salvação; ele é meu refugio e não serei abalado.",
-    "ref": "Salmos 62:2"
-  },
-  {
-    "dia": 345,
-    "texto": "Pois o Senhor dará a vitória às nações que confiam nele.",
-    "ref": "Isaías 41:10"
-  },
-  {
-    "dia": 346,
-    "texto": "Porque o Senhor é o Deus da esperança; ele encheu nossos corações de alegria e paz.",
-    "ref": "Romanos 15:13"
-  },
-  {
-    "dia": 347,
-    "texto": "O Senhor é minha força e meu escudo; nele confio de todo o coração.",
-    "ref": "Salmos 28:7"
-  },
-  {
-    "dia": 348,
-    "texto": "Pois o Senhor cuida de quem o teme; sua misericórdia abraça todas as gerações.",
-    "ref": "Salmos 103:17"
-  },
-  {
-    "dia": 349,
-    "texto": "Porque o Senhor está sempre com você; ele nunca o abandonará nem o deixará sozinho.",
-    "ref": "Deuteronômio 31:8"
-  },
-  {
-    "dia": 350,
-    "texto": "O Senhor é minha porção e minha herança; meu futuro está nas suas mãos.",
-    "ref": "Salmos 16:5"
-  },
-  {
-    "dia": 351,
-    "texto": "Pois o Senhor abençoará os que buscam a ele de todo o coração.",
-    "ref": "Jeremias 29:13"
-  },
-  {
-    "dia": 352,
-    "texto": "Porque o Senhor é o meu refúgio e fortaleza; ele está sempre presente nas dificuldades.",
-    "ref": "Salmos 46:1"
-  },
-  {
-    "dia": 353,
-    "texto": "O Senhor é minha luz e minha salvação; diante dele nada temo.",
-    "ref": "Salmos 27:1"
-  },
-  {
-    "dia": 354,
-    "texto": "Pois o Senhor nos protege como um escudo e nos guia com sabedoria.",
-    "ref": "Provérbios 2:7"
-  },
-  {
-    "dia": 355,
-    "texto": "Porque o Senhor é fiel e cumpre cada promessa que faz para seus filhos.",
-    "ref": "1 Reis 8:56"
-  },
-  {
-    "dia": 356,
-    "texto": "O Senhor guarda o seu povo e o protege em toda a jornada da vida.",
-    "ref": "Salmos 121:7-8"
-  },
-  {
-    "dia": 357,
-    "texto": "Pois o Senhor é meu Deus e ele cuida de mim em todos os momentos da vida.",
-    "ref": "Isaías 41:10"
-  },
-  {
-    "dia": 358,
-    "texto": "Porque o Senhor nos deu um espírito de poder, amor e discernimento.",
-    "ref": "2 Timóteo 1:7"
-  },
-  {
-    "dia": 359,
-    "texto": "O Senhor é minha rocha e fortaleza; ele me salva e me protege.",
-    "ref": "2 Samuel 22:2"
-  },
-  {
-    "dia": 360,
-    "texto": "Pois o Senhor é bom e sua misericórdia dura para sempre.",
-    "ref": "Salmos 107:1"
-  },
-  {
-    "dia": 361,
-    "texto": "Porque o Senhor renovará minhas forças como águias que alçam voo.",
-    "ref": "Isaías 40:31"
-  },
-  {
-    "dia": 362,
-    "texto": "O Senhor é o Deus eterno que nunca se cansa e sempre nos fortalece.",
-    "ref": "Isaías 40:28"
-  },
-  {
-    "dia": 363,
-    "texto": "Pois o Senhor é minha esperança e meu sustento em todos os momentos da vida.",
-    "ref": "Salmos 71:5"
-  },
-  {
-    "dia": 364,
-    "texto": "Porque o Senhor me guia com sabedoria e me conduz pelos caminhos certos.",
-    "ref": "Provérbios 3:6"
-  },
-  {
-    "dia": 365,
-    "texto": "O Senhor abençoa a sua vida e a guarda em sua misericórdia eterna.",
-    "ref": "Números 6:24"
-  },
-  {
-    "dia": 366,
-    "texto": "Pois Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.",
-    "ref": "João 3:16"
-  }
+  { "dia": 1, "texto": "Porque eu bem sei os pensamentos que tenho a vosso respeito, diz o Senhor; pensamentos de paz, e não de mal, para vos dar o fim que esperais.", "ref": "Jeremias 29:11" },
+  { "dia": 2, "texto": "O Senhor é o meu pastor; nada me faltará.", "ref": "Salmos 23:1" },
+  { "dia": 3, "texto": "Não to mandei eu? Sê forte e corajoso; não temas, nem te espantes; porque o Senhor teu Deus é contigo, por onde quer que andares.", "ref": "Josué 1:9" },
+  { "dia": 4, "texto": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça.", "ref": "Isaías 41:10" },
+  { "dia": 5, "texto": "Entrega o teu caminho ao Senhor; confia nele, e ele tudo fará.", "ref": "Salmos 37:5" },
+  { "dia": 6, "texto": "Mil cairão ao teu lado, e dez mil à tua direita, mas não chegará a ti.", "ref": "Salmos 91:7" },
+  { "dia": 7, "texto": "Pedi, e dar-se-vos-á; buscai, e encontrareis; batei, e abrir-se-vos-á.", "ref": "Mateus 7:7" },
+  { "dia": 8, "texto": "Mas ele foi ferido por causa das nossas transgressões... e pelas suas pisaduras fomos sarados.", "ref": "Isaías 53:5" },
+  { "dia": 9, "texto": "Posso todas as coisas naquele que me fortalece.", "ref": "Filipenses 4:13" },
+  { "dia": 10, "texto": "O meu Deus, segundo as suas riquezas, suprirá todas as vossas necessidades em glória, por Cristo Jesus.", "ref": "Filipenses 4:19" },
+  { "dia": 11, "texto": "Deleita-se no Senhor, e ele concederá os desejos do teu coração.", "ref": "Salmos 37:4" },
+  { "dia": 12, "texto": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei.", "ref": "Mateus 11:28" },
+  { "dia": 13, "texto": "Clama a mim, e responder-te-ei, e anunciar-te-ei coisas grandes e firmes que não sabes.", "ref": "Jeremias 33:3" },
+  { "dia": 14, "texto": "E sabemos que todas as coisas cooperam juntamente para o bem daqueles que amam a Deus.", "ref": "Romanos 8:28" },
+  { "dia": 15, "texto": "Toda a arma forjada contra ti não prosperará; e toda a língua que se levantar contra ti em juízo tu a condenarás.", "ref": "Isaías 54:17" },
+  { "dia": 16, "texto": "O Senhor pelejará por vós, e vós vos calareis.", "ref": "Êxodo 14:14" },
+  { "dia": 17, "texto": "Mas os que esperam no Senhor renovarão as forças, subirão com asas como águias; correrão, e não se cansarão.", "ref": "Isaías 40:31" },
+  { "dia": 18, "texto": "E eis que eu estou convosco todos os dias, até a consumação dos séculos. Amém.", "ref": "Mateus 28:20" },
+  { "dia": 19, "texto": "O Senhor te guardará de todo o mal; ele guardará a tua alma.", "ref": "Salmos 121:7" },
+  { "dia": 20, "texto": "Que diremos, pois, a estas coisas? Se Deus é por nós, quem será contra nós?", "ref": "Romanos 8:31" },
+  { "dia": 21, "texto": "A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza.", "ref": "2 Coríntios 12:9" },
+  { "dia": 22, "texto": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.", "ref": "1 Pedro 5:7" },
+  { "dia": 23, "texto": "Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá.", "ref": "João 14:27" },
+  { "dia": 24, "texto": "Crê no Senhor Jesus Cristo e serás salvo, tu e a tua casa.", "ref": "Atos 16:31" },
+  { "dia": 25, "texto": "Porque para Deus nada é impossível.", "ref": "Lucas 1:37" },
+  { "dia": 26, "texto": "Sujeitai-vos, pois, a Deus, resisti ao diabo, e ele fugirá de vós.", "ref": "Tiago 4:7" },
+  { "dia": 27, "texto": "O choro pode durar uma noite, mas a alegria vem pela manhã.", "ref": "Salmos 30:5" },
+  { "dia": 28, "texto": "Aquele que começou a boa obra em vós a aperfeiçoará até ao dia de Jesus Cristo.", "ref": "Filipenses 1:6" },
+  { "dia": 29, "texto": "O Senhor abrirá o seu bom tesouro, o céu, para abençoar toda a obra das tuas mãos.", "ref": "Deuteronômio 28:12" },
+  { "dia": 30, "texto": "E Deus limpará de seus olhos toda a lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor.", "ref": "Apocalipse 21:4" },
+  { "dia": 31, "texto": "Fiel é o que vos chama, o qual também o fará.", "ref": "1 Tessalonicenses 5:24" },
+  { "dia": 32, "texto": "O Senhor te abençoe e te guarde; o Senhor faça resplandecer o seu rosto sobre ti.", "ref": "Números 6:24-25" },
+  { "dia": 33, "texto": "Invocai-me, e ide, e orai a mim, e eu vos ouvirei.", "ref": "Jeremias 29:12" },
+  { "dia": 34, "texto": "O Senhor é bom, uma fortaleza no dia da angústia, e conhece os que confiam nele.", "ref": "Naum 1:7" },
+  { "dia": 35, "texto": "Provai e vede que o Senhor é bom; bem-aventurado o homem que nele confia.", "ref": "Salmos 34:8" },
+  { "dia": 36, "texto": "Perto está o Senhor dos que têm o coração quebrantado e salva os contritos de espírito.", "ref": "Salmos 34:18" },
+  { "dia": 37, "texto": "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus.", "ref": "Filipenses 4:7" },
+  { "dia": 38, "texto": "Buscai primeiro o reino de Deus, e a sua justiça, e todas estas coisas vos serão acrescentadas.", "ref": "Mateus 6:33" },
+  { "dia": 39, "texto": "Se o Filho vos libertar, verdadeiramente sereis livres.", "ref": "João 8:36" },
+  { "dia": 40, "texto": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.", "ref": "Salmos 46:1" },
+  { "dia": 41, "texto": "Confia no Senhor de todo o teu coração... e ele endireitará as tuas veredas.", "ref": "Provérbios 3:5-6" },
+  { "dia": 42, "texto": "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.", "ref": "Salmos 91:1" },
+  { "dia": 43, "texto": "Disse-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá.", "ref": "João 11:25" },
+  { "dia": 44, "texto": "Fui moço, e agora sou velho; mas nunca vi desamparado o justo, nem a sua semente a mendigar o pão.", "ref": "Salmos 37:25" },
+  { "dia": 45, "texto": "O Senhor guardará a tua saída e a tua entrada, desde agora e para sempre.", "ref": "Salmos 121:8" },
+  { "dia": 46, "texto": "Os que semeiam em lágrimas segarão com alegria.", "ref": "Salmos 126:5" },
+  { "dia": 47, "texto": "Não temas, porque eu te remi; chamei-te pelo teu nome, tu és meu.", "ref": "Isaías 43:1" },
+  { "dia": 48, "texto": "Quando passares pelas águas estarei contigo... quando passares pelo fogo não te queimarás.", "ref": "Isaías 43:2" },
+  { "dia": 49, "texto": "Mas, em todas estas coisas somos mais do que vencedores, por aquele que nos amou.", "ref": "Romanos 8:37" },
+  { "dia": 50, "texto": "Aquele que não poupou a seu próprio Filho... como nos não dará também com ele todas as coisas?", "ref": "Romanos 8:32" },
+  { "dia": 51, "texto": "Porque eu, o Senhor teu Deus, te tomo pela tua mão direita; e te digo: Não temas, que eu te ajudo.", "ref": "Isaías 41:13" },
+  { "dia": 52, "texto": "O Senhor dará força ao seu povo; o Senhor abençoará o seu povo com paz.", "ref": "Salmos 29:11" },
+  { "dia": 53, "texto": "As misericórdias do Senhor são a causa de não sermos consumidos... renovam-se cada manhã.", "ref": "Lamentações 3:22-23" },
+  { "dia": 54, "texto": "Bom é o Senhor para os que esperam por ele, para a alma que o busca.", "ref": "Lamentações 3:25" },
+  { "dia": 55, "texto": "Bem-aventurado o homem que suporta a tentação... receberá a coroa da vida.", "ref": "Tiago 1:12" },
+  { "dia": 56, "texto": "E o Deus de toda a graça... depois de haverdes padecido um pouco, ele mesmo vos aperfeiçoará, confirmará, fortificará e fortalecerá.", "ref": "1 Pedro 5:10" },
+  { "dia": 57, "texto": "Porque para mim tenho por certo que as aflições deste tempo presente não são para comparar com a glória que em nós há de ser revelada.", "ref": "Romanos 8:18" },
+  { "dia": 58, "texto": "Nem a morte, nem a vida... nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor.", "ref": "Romanos 8:38-39" },
+  { "dia": 59, "texto": "Ora, àquele que é poderoso para fazer tudo muito mais abundantemente além daquilo que pedimos ou pensamos.", "ref": "Efésios 3:20" },
+  { "dia": 60, "texto": "Se algum de vós tem falta de sabedoria, peça-a a Deus... e ser-lhe-á dada.", "ref": "Tiago 1:5" },
+  { "dia": 61, "texto": "O Senhor, teu Deus, está no meio de ti, poderoso para te salvar; ele se deleitará em ti com alegria.", "ref": "Sofonias 3:17" },
+  { "dia": 62, "texto": "Até à vossa velhice eu sou o mesmo, e ainda até às cãs eu vos carregarei.", "ref": "Isaías 46:4" },
+  { "dia": 63, "texto": "Pois os montes se retirarão, e os outeiros vacilarão; porém a minha benignidade não se apartará de ti.", "ref": "Isaías 54:10" },
+  { "dia": 64, "texto": "O Senhor é o meu auxílio, e não temerei o que me possa fazer o homem.", "ref": "Hebreus 13:6" },
+  { "dia": 65, "texto": "E tudo quanto pedirdes em meu nome eu o farei, para que o Pai seja glorificado no Filho.", "ref": "João 14:13" },
+  { "dia": 66, "texto": "Se pedirdes alguma coisa em meu nome, eu o farei.", "ref": "João 14:14" },
+  { "dia": 67, "texto": "E o Senhor te guiará continuamente, e fartará a tua alma em lugares áridos.", "ref": "Isaías 58:11" },
+  { "dia": 68, "texto": "Mas fiel é o Senhor, que vos confortará, e guardará do maligno.", "ref": "2 Tessalonicenses 3:3" },
+  { "dia": 69, "texto": "Lancem sobre o Senhor o seu fardo, e ele o sustentará; jamais permitirá que o justo caia.", "ref": "Salmos 55:22" },
+  { "dia": 70, "texto": "Deus não é homem, para que minta... Porventura diria ele, e não o faria? Ou falaria, e não o confirmaria?", "ref": "Números 23:19" },
+  { "dia": 71, "texto": "Eu sou o pão da vida; aquele que vem a mim não terá fome, e quem crê em mim nunca terá sede.", "ref": "João 6:35" },
+  { "dia": 72, "texto": "Não te deixarei, nem te desampararei.", "ref": "Hebreus 13:5" },
+  { "dia": 73, "texto": "Porque os olhos do Senhor passam por toda a terra, para mostrar-se forte para com aqueles cujo coração é perfeito para com ele.", "ref": "2 Crônicas 16:9" },
+  { "dia": 74, "texto": "Em paz também me deitarei e dormirei, porque só tu, Senhor, me fazes habitar em segurança.", "ref": "Salmos 4:8" },
+  { "dia": 75, "texto": "A minha presença irá contigo, e eu te darei descanso.", "ref": "Êxodo 33:14" },
+  { "dia": 76, "texto": "Mas aquele que beber da água que eu lhe der nunca terá sede.", "ref": "João 4:14" },
+  { "dia": 77, "texto": "Aquele que crê em mim, como diz a Escritura, rios de água viva correrão do seu ventre.", "ref": "João 7:38" },
+  { "dia": 78, "texto": "Tudo quanto pedirdes, crendo, recebereis.", "ref": "Mateus 21:22" },
+  { "dia": 79, "texto": "Ele dá força ao cansado, e multiplica as forças ao que não tem nenhum vigor.", "ref": "Isaías 40:29" },
+  { "dia": 80, "texto": "Os que buscam ao Senhor de nada têm falta.", "ref": "Salmos 34:10" },
+  { "dia": 81, "texto": "Muitas são as aflições do justo, mas o Senhor o livra de todas.", "ref": "Salmos 34:19" },
+  { "dia": 82, "texto": "O Senhor resgata a alma dos seus servos, e nenhum dos que nele confiam será punido.", "ref": "Salmos 34:22" },
+  { "dia": 83, "texto": "Agrada-te do Senhor, e ele satisfará os desejos do teu coração.", "ref": "Salmos 37:4" },
+  { "dia": 84, "texto": "O Senhor conhece os dias dos íntegros, e a sua herança permanecerá para sempre.", "ref": "Salmos 37:18" },
+  { "dia": 85, "texto": "Pelo Senhor são confirmados os passos do homem justo, e ele deleita-se no seu caminho.", "ref": "Salmos 37:23" },
+  { "dia": 86, "texto": "Ainda que caia, não ficará prostrado, pois o Senhor o sustém com a sua mão.", "ref": "Salmos 37:24" },
+  { "dia": 87, "texto": "Pois o Senhor ama o juízo e não desampara os seus santos; eles são preservados para sempre.", "ref": "Salmos 37:28" },
+  { "dia": 88, "texto": "Espera no Senhor, e guarda o seu caminho, e te exaltará para herdares a terra.", "ref": "Salmos 37:34" },
+  { "dia": 89, "texto": "A salvação dos justos vem do Senhor; ele é a sua fortaleza no tempo da angústia.", "ref": "Salmos 37:39" },
+  { "dia": 90, "texto": "Invoca-me no dia da angústia; eu te livrarei, e tu me glorificarás.", "ref": "Salmos 50:15" },
+  { "dia": 91, "texto": "Porque o Senhor Deus é um sol e escudo; o Senhor dará graça e glória; não retirará bem algum aos que andam na retidão.", "ref": "Salmos 84:11" },
+  { "dia": 92, "texto": "Ele te cobrirá com as suas penas, e debaixo das suas asas te confiarás; a sua verdade será o teu escudo e pavês.", "ref": "Salmos 91:4" },
+  { "dia": 93, "texto": "Não terás medo do terror de noite nem da seta que voa de dia.", "ref": "Salmos 91:5" },
+  { "dia": 94, "texto": "Nenhum mal te sucederá, nem praga alguma chegará à tua tenda.", "ref": "Salmos 91:10" },
+  { "dia": 95, "texto": "Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos.", "ref": "Salmos 91:11" },
+  { "dia": 96, "texto": "Eles te sustentarão nas suas mãos, para que não tropeces com o teu pé em pedra.", "ref": "Salmos 91:12" },
+  { "dia": 97, "texto": "Ele me invocará, e eu lhe responderei; estarei com ele na angústia; dela o retirarei, e o glorificarei.", "ref": "Salmos 91:15" },
+  { "dia": 98, "texto": "Fartá-lo-ei com longura de dias, e lhe mostrarei a minha salvação.", "ref": "Salmos 91:16" },
+  { "dia": 99, "texto": "O Senhor é o teu guarda; o Senhor é a tua sombra à tua mão direita.", "ref": "Salmos 121:5" },
+  { "dia": 100, "texto": "O sol não te molestará de dia nem a lua de noite.", "ref": "Salmos 121:6" }
+  { "dia": 101, "texto": "Os que confiam no Senhor serão como o monte de Sião, que não se abala, mas permanece para sempre.", "ref": "Salmos 125:1" },
+  { "dia": 102, "texto": "Como os montes estão à roda de Jerusalém, assim o Senhor está em volta do seu povo desde agora e para sempre.", "ref": "Salmos 125:2" },
+  { "dia": 103, "texto": "O Senhor fará por mim o que me for necessário; a tua misericórdia, ó Senhor, dura para sempre.", "ref": "Salmos 138:8" },
+  { "dia": 104, "texto": "Perto está o Senhor de todos os que o invocam, de todos os que o invocam em verdade.", "ref": "Salmos 145:18" },
+  { "dia": 105, "texto": "Ele cumprirá o desejo dos que o temem; ouvirá o seu clamor, e os salvará.", "ref": "Salmos 145:19" },
+  { "dia": 106, "texto": "O Senhor guarda a todos os que o amam.", "ref": "Salmos 145:20" },
+  { "dia": 107, "texto": "Ele sara os quebrantados de coração e liga-lhes as feridas.", "ref": "Salmos 147:3" },
+  { "dia": 108, "texto": "O Senhor se agrada dos que o temem e dos que esperam na sua misericórdia.", "ref": "Salmos 147:11" },
+  { "dia": 109, "texto": "Confia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos.", "ref": "Provérbios 16:3" },
+  { "dia": 110, "texto": "O nome do Senhor é uma torre forte; corre para ela o justo, e está seguro.", "ref": "Provérbios 18:10" },
+  { "dia": 111, "texto": "O que encobre as suas transgressões nunca prosperará, mas o que as confessa e deixa, alcançará misericórdia.", "ref": "Provérbios 28:13" },
+  { "dia": 112, "texto": "O temor do homem armará laços, mas o que confia no Senhor será posto em alto retiro.", "ref": "Provérbios 29:25" },
+  { "dia": 113, "texto": "Ainda que o pecador faça o mal cem vezes, e os dias se lhe prolonguem, eu sei com certeza que bem sucede aos que temem a Deus.", "ref": "Eclesiastes 8:12" },
+  { "dia": 114, "texto": "Lança o teu pão sobre as águas, porque depois de muitos dias o acharás.", "ref": "Eclesiastes 11:1" },
+  { "dia": 115, "texto": "Tu conservarás em paz aquele cujo pensamento é firme em ti; porque ele confia em ti.", "ref": "Isaías 26:3" },
+  { "dia": 116, "texto": "Confiai no Senhor perpetuamente; porque o Senhor Deus é uma rocha eterna.", "ref": "Isaías 26:4" },
+  { "dia": 117, "texto": "E será que, antes que clamem, eu responderei; estando eles ainda falando, eu os ouvirei.", "ref": "Isaías 65:24" },
+  { "dia": 118, "texto": "Não temas, pois; porque eu sou contigo; trarei a tua semente desde o Oriente, e te ajuntarei desde o Ocidente.", "ref": "Isaías 43:5" },
+  { "dia": 119, "texto": "Eu, eu mesmo, sou o que apago as tuas transgressões por amor de mim, e dos teus pecados não me lembro.", "ref": "Isaías 43:25" },
+  { "dia": 120, "texto": "Olhai para mim, e sereis salvos, vós, todos os termos da terra; porque eu sou Deus, e não há outro.", "ref": "Isaías 45:22" },
+  { "dia": 121, "texto": "Pode uma mulher esquecer-se tanto do filho que cria... Todavia, eu não me esquecerei de ti.", "ref": "Isaías 49:15" },
+  { "dia": 122, "texto": "Eis que nas palmas das minhas mãos eu te gravei; os teus muros estão continuamente diante de mim.", "ref": "Isaías 49:16" },
+  { "dia": 123, "texto": "Porque o Senhor Deus me ajuda, assim não me confundo; por isso pus o meu rosto como um seixo, e sei que não serei envergonhado.", "ref": "Isaías 50:7" },
+  { "dia": 124, "texto": "Porque o Senhor consolará a Sião... gozo e alegria se acharão nela, ações de graças e voz de melodia.", "ref": "Isaías 51:3" },
+  { "dia": 125, "texto": "Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto.", "ref": "Isaías 55:6" },
+  { "dia": 126, "texto": "Porque, assim como desce a chuva e a neve dos céus... assim será a minha palavra, que sair da minha boca; ela não voltará para mim vazia.", "ref": "Isaías 55:10-11" },
+  { "dia": 127, "texto": "Então clamarás, e o Senhor te responderá; gritarás, e ele dirá: Eis-me aqui.", "ref": "Isaías 58:9" },
+  { "dia": 128, "texto": "E o Senhor te guiará continuamente, e fartará a tua alma em lugares áridos, e fortificará os teus ossos.", "ref": "Isaías 58:11" },
+  { "dia": 129, "texto": "Levanta-te, resplandece, porque vem a tua luz, e a glória do Senhor vai nascendo sobre ti.", "ref": "Isaías 60:1" },
+  { "dia": 130, "texto": "O menor virá a ser mil, e o mínimo uma nação forte; eu, o Senhor, a seu tempo o farei prontamente.", "ref": "Isaías 60:22" },
+  { "dia": 131, "texto": "Curar-me-ei, Senhor, e serei curado; salva-me, e serei salvo; porque tu és o meu louvor.", "ref": "Jeremias 17:14" },
+  { "dia": 132, "texto": "Bendito o homem que confia no Senhor, e cuja esperança é o Senhor.", "ref": "Jeremias 17:7" },
+  { "dia": 133, "texto": "Porque ele será como a árvore plantada junto às águas, que estende as suas raízes para o ribeiro... no ano de sequidão não se afadiga.", "ref": "Jeremias 17:8" },
+  { "dia": 134, "texto": "E buscar-me-eis, e me achareis, quando me buscardes com todo o vosso coração.", "ref": "Jeremias 29:13" },
+  { "dia": 135, "texto": "Com amor eterno te amei, por isso com benignidade te atraí.", "ref": "Jeremias 31:3" },
+  { "dia": 136, "texto": "Porque eu saciarei a alma cansada, e encherei toda a alma entristecida.", "ref": "Jeremias 31:25" },
+  { "dia": 137, "texto": "Eis que eu sou o Senhor, o Deus de toda a carne; acaso haveria alguma coisa demasiado difícil para mim?", "ref": "Jeremias 32:27" },
+  { "dia": 138, "texto": "Mas a vós, os que temeis o meu nome, nascerá o sol da justiça, e cura trará nas suas asas.", "ref": "Malaquias 4:2" },
+  { "dia": 139, "texto": "Trazei todos os dízimos à casa do tesouro... e depois provai-me nisto, diz o Senhor... se eu não vos abrir as janelas do céu.", "ref": "Malaquias 3:10" },
+  { "dia": 140, "texto": "E porei dentro de vós o meu Espírito, e farei que andeis nos meus estatutos.", "ref": "Ezequiel 36:27" },
+  { "dia": 141, "texto": "E o Senhor será rei sobre toda a terra; naquele dia um será o Senhor, e um será o seu nome.", "ref": "Zacarias 14:9" },
+  { "dia": 142, "texto": "Não por força nem por violência, mas sim pelo meu Espírito, diz o Senhor dos Exércitos.", "ref": "Zacarias 4:6" },
+  { "dia": 143, "texto": "Voltai à fortaleza, ó presos de esperança; também hoje vos anuncio que vos restaurarei em dobro.", "ref": "Zacarias 9:12" },
+  { "dia": 144, "texto": "Conheçamos, e prossigamos em conhecer ao Senhor... como a chuva virá a nós, como chuva serôdia que rega a terra.", "ref": "Oseias 6:3" },
+  { "dia": 145, "texto": "Porque eu quero a misericórdia, e não o sacrifício; e o conhecimento de Deus, mais do que os holocaustos.", "ref": "Oseias 6:6" },
+  { "dia": 146, "texto": "E há de ser que todo aquele que invocar o nome do Senhor será salvo.", "ref": "Joel 2:32" },
+  { "dia": 147, "texto": "E restituir-vos-ei os anos que comeu o gafanhoto, a locusta, o pulgão e a lagarta.", "ref": "Joel 2:25" },
+  { "dia": 148, "texto": "E há de ser que, depois, derramarei o meu Espírito sobre toda a carne, e vossos filhos e vossas filhas profetizarão.", "ref": "Joel 2:28" },
+  { "dia": 149, "texto": "O Senhor é bom para os que esperam por ele, para a alma que o busca.", "ref": "Lamentações 3:25" },
+  { "dia": 150, "texto": "Porque o Senhor não rejeitará para sempre.", "ref": "Lamentações 3:31" },
+  { "dia": 151, "texto": "Pois, ainda que entristeça a alguém, usará de compaixão, segundo a grandeza das suas misericórdias.", "ref": "Lamentações 3:32" },
+  { "dia": 152, "texto": "Porque não aflige nem entristece de bom grado os filhos dos homens.", "ref": "Lamentações 3:33" },
+  { "dia": 153, "texto": "Levantai os vossos olhos para os céus, e olhai para a terra de baixo; porque os céus desaparecerão como o fumo... mas a minha salvação durará para sempre.", "ref": "Isaías 51:6" },
+  { "dia": 154, "texto": "Bem-aventurados os que sofrem perseguição por amor da justiça, porque deles é o reino dos céus.", "ref": "Mateus 5:10" },
+  { "dia": 155, "texto": "Bem-aventurados sois vós, quando vos injuriarem e perseguirem... Exultai e alegrai-vos, porque é grande o vosso galardão nos céus.", "ref": "Mateus 5:11-12" },
+  { "dia": 156, "texto": "Não andeis, pois, inquietos, dizendo: Que comeremos, ou que beberemos... porque vosso Pai celestial sabe que necessitais de todas estas coisas.", "ref": "Mateus 6:31-32" },
+  { "dia": 157, "texto": "Não vos inquieteis, pois, pelo dia de amanhã, porque o dia de amanhã cuidará de si mesmo.", "ref": "Mateus 6:34" },
+  { "dia": 158, "texto": "Pois, se vós, sendo maus, sabeis dar boas dádivas aos vossos filhos, quanto mais vosso Pai, que está nos céus, dará bens aos que lhe pedirem?", "ref": "Mateus 7:11" },
+  { "dia": 159, "texto": "E todo aquele que tiver deixado casas, ou irmãos... por amor do meu nome, receberá cem vezes tanto, e herdará a vida eterna.", "ref": "Mateus 19:29" },
+  { "dia": 160, "texto": "E, tudo o que pedirdes na oração, crendo, o recebereis.", "ref": "Mateus 21:22" },
+  { "dia": 161, "texto": "Aquele que perseverar até ao fim será salvo.", "ref": "Mateus 24:13" },
+  { "dia": 162, "texto": "Porque, onde estiverem dois ou três reunidos em meu nome, aí estou eu no meio deles.", "ref": "Mateus 18:20" },
+  { "dia": 163, "texto": "Ide por todo o mundo, pregai o evangelho a toda criatura. Quem crer e for batizado será salvo.", "ref": "Marcos 16:15-16" },
+  { "dia": 164, "texto": "E estes sinais seguirão aos que crerem: Em meu nome expulsarão demônios; falarão novas línguas.", "ref": "Marcos 16:17" },
+  { "dia": 165, "texto": "Se tu podes crer, tudo é possível ao que crê.", "ref": "Marcos 9:23" },
+  { "dia": 166, "texto": "Por isso vos digo que todas as coisas que pedirdes, orando, crede receber e tê-las-eis.", "ref": "Marcos 11:24" },
+  { "dia": 167, "texto": "Dêem e será dado a vocês: uma boa medida, calcada, sacudida e transbordante.", "ref": "Lucas 6:38" },
+  { "dia": 168, "texto": "Eis que vos dou poder para pisar serpentes e escorpiões, e toda a força do inimigo, e nada vos fará dano algum.", "ref": "Lucas 10:19" },
+  { "dia": 169, "texto": "Pois não sois vós que falais, mas o Espírito Santo.", "ref": "Marcos 13:11" },
+  { "dia": 170, "texto": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.", "ref": "João 3:16" },
+  { "dia": 171, "texto": "Quem crê no Filho tem a vida eterna.", "ref": "João 3:36" },
+  { "dia": 172, "texto": "Na verdade, na verdade vos digo que quem ouve a minha palavra, e crê naquele que me enviou, tem a vida eterna.", "ref": "João 5:24" },
+  { "dia": 173, "texto": "Tudo o que o Pai me dá virá a mim; e o que vem a mim de maneira nenhuma o lançarei fora.", "ref": "João 6:37" },
+  { "dia": 174, "texto": "E a vontade daquele que me enviou é esta: Que todo aquele que vê o Filho, e crê nele, tenha a vida eterna; e eu o ressuscitarei no último dia.", "ref": "João 6:40" },
+  { "dia": 175, "texto": "Se vós permanecerdes na minha palavra, verdadeiramente sereis meus discípulos; E conhecereis a verdade, e a verdade vos libertará.", "ref": "João 8:31-32" },
+  { "dia": 176, "texto": "Eu sou a porta; se alguém entrar por mim, salvar-se-á, e entrará, e sairá, e achará pastagens.", "ref": "João 10:9" },
+  { "dia": 177, "texto": "Eu vim para que tenham vida, e a tenham com abundância.", "ref": "João 10:10" },
+  { "dia": 178, "texto": "Eu sou o bom Pastor; o bom Pastor dá a sua vida pelas ovelhas.", "ref": "João 10:11" },
+  { "dia": 179, "texto": "As minhas ovelhas ouvem a minha voz, e eu conheço-as, e elas me seguem; e dou-lhes a vida eterna, e nunca hão de perecer.", "ref": "João 10:27-28" },
+  { "dia": 180, "texto": "Ninguém as arrebatará da minha mão.", "ref": "João 10:28" },
+  { "dia": 181, "texto": "Não se turbe o vosso coração; credes em Deus, crede também em mim.", "ref": "João 14:1" },
+  { "dia": 182, "texto": "Na casa de meu Pai há muitas moradas... vou preparar-vos lugar.", "ref": "João 14:2" },
+  { "dia": 183, "texto": "E quando eu for... voltarei e vos receberei para mim mesmo, para que onde eu estiver estejais vós também.", "ref": "João 14:3" },
+  { "dia": 184, "texto": "Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim.", "ref": "João 14:6" },
+  { "dia": 185, "texto": "Na verdade, na verdade vos digo que aquele que crê em mim também fará as obras que eu faço, e as fará maiores do que estas.", "ref": "João 14:12" },
+  { "dia": 186, "texto": "E eu rogarei ao Pai, e ele vos dará outro Consolador, para que fique convosco para sempre.", "ref": "João 14:16" },
+  { "dia": 187, "texto": "Não vos deixarei órfãos; voltarei para vós.", "ref": "João 14:18" },
+  { "dia": 188, "texto": "Mas aquele Consolador, o Espírito Santo... esse vos ensinará todas as coisas, e vos fará lembrar de tudo quanto vos tenho dito.", "ref": "João 14:26" },
+  { "dia": 189, "texto": "Se vós estiverdes em mim, e as minhas palavras estiverem em vós, pedireis tudo o que quiserdes, e vos será feito.", "ref": "João 15:7" },
+  { "dia": 190, "texto": "Não me escolhestes vós a mim, mas eu vos escolhi a vós... a fim de que tudo quanto em meu nome pedirdes ao Pai ele vo-lo conceda.", "ref": "João 15:16" },
+  { "dia": 191, "texto": "Tenho-vos dito isto, para que em mim tenhais paz; no mundo tereis aflições, mas tende bom ânimo, eu venci o mundo.", "ref": "João 16:33" },
+  { "dia": 192, "texto": "Mas recebereis a virtude do Espírito Santo, que há de vir sobre vós; e ser-me-eis testemunhas.", "ref": "Atos 1:8" },
+  { "dia": 193, "texto": "Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para perdão dos pecados; e recebereis o dom do Espírito Santo.", "ref": "Atos 2:38" },
+  { "dia": 194, "texto": "Porque a promessa vos diz respeito a vós, a vossos filhos, e a todos os que estão longe.", "ref": "Atos 2:39" },
+  { "dia": 195, "texto": "E acontecerá que todo aquele que invocar o nome do Senhor será salvo.", "ref": "Atos 2:21" },
+  { "dia": 196, "texto": "Pois não me envergonho do evangelho de Cristo, porque é o poder de Deus para salvação de todo aquele que crê.", "ref": "Romanos 1:16" },
+  { "dia": 197, "texto": "Sendo, pois, justificados pela fé, temos paz com Deus, por nosso Senhor Jesus Cristo.", "ref": "Romanos 5:1" },
+  { "dia": 198, "texto": "E a esperança não traz confusão, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado.", "ref": "Romanos 5:5" },
+  { "dia": 199, "texto": "Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores.", "ref": "Romanos 5:8" },
+  { "dia": 200, "texto": "Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna, por Cristo Jesus nosso Senhor.", "ref": "Romanos 6:23" }
+  { "dia": 201, "texto": "Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus, que não andam segundo a carne, mas segundo o Espírito.", "ref": "Romanos 8:1" },
+  { "dia": 202, "texto": "E, se o Espírito daquele que dos mortos ressuscitou a Jesus habita em vós, aquele que dos mortos ressuscitou a Cristo também vivificará os vossos corpos mortais.", "ref": "Romanos 8:11" },
+  { "dia": 203, "texto": "Porque todos os que são guiados pelo Espírito de Deus, esses são filhos de Deus.", "ref": "Romanos 8:14" },
+  { "dia": 204, "texto": "O próprio Espírito testifica com o nosso espírito que somos filhos de Deus.", "ref": "Romanos 8:16" },
+  { "dia": 205, "texto": "E, se nós somos filhos, somos logo herdeiros também, herdeiros de Deus, e co-herdeiros de Cristo.", "ref": "Romanos 8:17" },
+  { "dia": 206, "texto": "E da mesma maneira também o Espírito ajuda as nossas fraquezas; porque não sabemos o que havemos de pedir como convém, mas o mesmo Espírito intercede por nós.", "ref": "Romanos 8:26" },
+  { "dia": 207, "texto": "Quem intentará acusação contra os escolhidos de Deus? É Deus quem os justifica.", "ref": "Romanos 8:33" },
+  { "dia": 208, "texto": "A saber: Se com a tua boca confessares ao Senhor Jesus, e em teu coração creres que Deus o ressuscitou dentre os mortos, serás salvo.", "ref": "Romanos 10:9" },
+  { "dia": 209, "texto": "Porque todo aquele que invocar o nome do Senhor será salvo.", "ref": "Romanos 10:13" },
+  { "dia": 210, "texto": "E o Deus de paz esmagará em breve Satanás debaixo dos vossos pés.", "ref": "Romanos 16:20" },
+  { "dia": 211, "texto": "Fiel é Deus, pelo qual fostes chamados para a comunhão de seu Filho Jesus Cristo nosso Senhor.", "ref": "1 Coríntios 1:9" },
+  { "dia": 212, "texto": "Mas, como está escrito: As coisas que o olho não viu, e o ouvido não ouviu, e não subiram ao coração do homem, são as que Deus preparou para os que o amam.", "ref": "1 Coríntios 2:9" },
+  { "dia": 213, "texto": "Não veio sobre vós tentação, senão humana; mas fiel é Deus, que não vos deixará tentar acima do que podeis, antes com a tentação dará também o escape.", "ref": "1 Coríntios 10:13" },
+  { "dia": 214, "texto": "Portanto, meus amados irmãos, sede firmes e constantes, sempre abundantes na obra do Senhor, sabendo que o vosso trabalho no Senhor não é vão.", "ref": "1 Coríntios 15:58" },
+  { "dia": 215, "texto": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo... o Deus de toda a consolação; que nos consola em toda a nossa tribulação.", "ref": "2 Coríntios 1:3-4" },
+  { "dia": 216, "texto": "Porque todas quantas promessas há de Deus, são nele sim, e por ele o Amém, para glória de Deus por nós.", "ref": "2 Coríntios 1:20" },
+  { "dia": 217, "texto": "Ora, graças a Deus, que sempre nos faz triunfar em Cristo.", "ref": "2 Coríntios 2:14" },
+  { "dia": 218, "texto": "Mas todos nós, com rosto descoberto, refletindo como um espelho a glória do Senhor, somos transformados de glória em glória na mesma imagem.", "ref": "2 Coríntios 3:18" },
+  { "dia": 219, "texto": "Temos, porém, este tesouro em vasos de barro, para que a excelência do poder seja de Deus, e não de nós.", "ref": "2 Coríntios 4:7" },
+  { "dia": 220, "texto": "Porque a nossa leve e momentânea tribulação produz para nós um peso eterno de glória mui excelente.", "ref": "2 Coríntios 4:17" },
+  { "dia": 221, "texto": "Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo.", "ref": "2 Coríntios 5:17" },
+  { "dia": 222, "texto": "Àquele que não conheceu pecado, o fez pecado por nós; para que nele fôssemos feitos justiça de Deus.", "ref": "2 Coríntios 5:21" },
+  { "dia": 223, "texto": "Deus ama ao que dá com alegria. E Deus é poderoso para fazer abundar em vós toda a graça.", "ref": "2 Coríntios 9:7-8" },
+  { "dia": 224, "texto": "Porque as armas da nossa milícia não são carnais, mas sim poderosas em Deus para destruição das fortalezas.", "ref": "2 Coríntios 10:4" },
+  { "dia": 225, "texto": "Cristo nos resgatou da maldição da lei, fazendo-se maldição por nós.", "ref": "Gálatas 3:13" },
+  { "dia": 226, "texto": "E, se sois de Cristo, então sois descendência de Abraão, e herdeiros conforme a promessa.", "ref": "Gálatas 3:29" },
+  { "dia": 227, "texto": "Estai, pois, firmes na liberdade com que Cristo nos libertou.", "ref": "Gálatas 5:1" },
+  { "dia": 228, "texto": "Mas o fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança.", "ref": "Gálatas 5:22" },
+  { "dia": 229, "texto": "E não nos cansemos de fazer bem, porque a seu tempo ceifaremos, se não houvermos desfalecido.", "ref": "Gálatas 6:9" },
+  { "dia": 230, "texto": "Em quem também vós estais, depois que ouvistes a palavra da verdade... fostes selados com o Espírito Santo da promessa.", "ref": "Efésios 1:13" },
+  { "dia": 231, "texto": "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus.", "ref": "Efésios 2:8" },
+  { "dia": 232, "texto": "Porque somos feitura sua, criados em Cristo Jesus para as boas obras.", "ref": "Efésios 2:10" },
+  { "dia": 233, "texto": "Para que, segundo as riquezas da sua glória, vos conceda que sejais corroborados com poder pelo seu Espírito no homem interior.", "ref": "Efésios 3:16" },
+  { "dia": 234, "texto": "Ora, àquele que é poderoso para fazer tudo muito mais abundantemente além daquilo que pedimos ou pensamos.", "ref": "Efésios 3:20" },
+  { "dia": 235, "texto": "No demais, irmãos meus, fortalecei-vos no Senhor e na força do seu poder.", "ref": "Efésios 6:10" },
+  { "dia": 236, "texto": "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo.", "ref": "Efésios 6:11" },
+  { "dia": 237, "texto": "Tendo por certo isto mesmo, que aquele que em vós começou a boa obra a aperfeiçoará até ao dia de Jesus Cristo.", "ref": "Filipenses 1:6" },
+  { "dia": 238, "texto": "Porque para mim o viver é Cristo, e o morrer é ganho.", "ref": "Filipenses 1:21" },
+  { "dia": 239, "texto": "Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica.", "ref": "Filipenses 4:6" },
+  { "dia": 240, "texto": "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus.", "ref": "Filipenses 4:7" },
+  { "dia": 241, "texto": "Tudo posso naquele que me fortalece.", "ref": "Filipenses 4:13" },
+  { "dia": 242, "texto": "O meu Deus, segundo as suas riquezas, suprirá todas as vossas necessidades em glória, por Cristo Jesus.", "ref": "Filipenses 4:19" },
+  { "dia": 243, "texto": "O qual nos tirou da potestade das trevas, e nos transportou para o reino do Filho do seu amor.", "ref": "Colossenses 1:13" },
+  { "dia": 244, "texto": "E, quando Cristo, que é a nossa vida, se manifestar, então também vós vos manifestareis com ele em glória.", "ref": "Colossenses 3:4" },
+  { "dia": 245, "texto": "E tudo quanto fizerdes, fazei-o de todo o coração, como ao Senhor, e não aos homens.", "ref": "Colossenses 3:23" },
+  { "dia": 246, "texto": "Sabendo que recebereis do Senhor o galardão da herança, porque a Cristo, o Senhor, servis.", "ref": "Colossenses 3:24" },
+  { "dia": 247, "texto": "E o mesmo Senhor da paz vos dê sempre paz de toda a maneira.", "ref": "2 Tessalonicenses 3:16" },
+  { "dia": 248, "texto": "Porque Deus não nos deu o espírito de temor, mas de fortaleza, e de amor, e de moderação.", "ref": "2 Timóteo 1:7" },
+  { "dia": 249, "texto": "Porque eu sei em quem tenho crido, e estou certo de que é poderoso para guardar o meu depósito até àquele dia.", "ref": "2 Timóteo 1:12" },
+  { "dia": 250, "texto": "Se formos infiéis, ele permanece fiel; não pode negar-se a si mesmo.", "ref": "2 Timóteo 2:13" },
+  { "dia": 251, "texto": "Desde agora, a coroa da justiça me está guardada, a qual o Senhor, justo juiz, me dará naquele dia.", "ref": "2 Timóteo 4:8" },
+  { "dia": 252, "texto": "E o Senhor me livrará de toda a má obra, e guardar-me-á para o seu reino celestial.", "ref": "2 Timóteo 4:18" },
+  { "dia": 253, "texto": "Na esperança da vida eterna, a qual Deus, que não pode mentir, prometeu antes dos tempos dos séculos.", "ref": "Tito 1:2" },
+  { "dia": 254, "texto": "Aguardando a bem-aventurada esperança e o aparecimento da glória do grande Deus e nosso Senhor Jesus Cristo.", "ref": "Tito 2:13" },
+  { "dia": 255, "texto": "Não são porventura todos eles espíritos ministradores, enviados para servir a favor dos que hão de herdar a salvação?", "ref": "Hebreus 1:14" },
+  { "dia": 256, "texto": "Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; porém, um que, como nós, em tudo foi tentado.", "ref": "Hebreus 4:15" },
+  { "dia": 257, "texto": "Cheguemos, pois, com confiança ao trono da graça, para que possamos alcançar misericórdia e achar graça, a fim de sermos ajudados no tempo oportuno.", "ref": "Hebreus 4:16" },
+  { "dia": 258, "texto": "Porque Deus não é injusto para se esquecer da vossa obra, e do trabalho do amor que para com o seu nome mostrastes.", "ref": "Hebreus 6:10" },
+  { "dia": 259, "texto": "Pelo que pode também salvar perfeitamente os que por ele se chegam a Deus, vivendo sempre para interceder por eles.", "ref": "Hebreus 7:25" },
+  { "dia": 260, "texto": "Pois serei misericordioso para com suas iniquidades, e de seus pecados e de suas prevaricações não me lembrarei mais.", "ref": "Hebreus 8:12" },
+  { "dia": 261, "texto": "Não rejeiteis, pois, a vossa confiança, que tem uma grande e poderosa recompensa.", "ref": "Hebreus 10:35" },
+  { "dia": 262, "texto": "Porque ainda um pouquinho de tempo, e o que há de vir virá, e não tardará.", "ref": "Hebreus 10:37" },
+  { "dia": 263, "texto": "Ora, a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que se não vêem.", "ref": "Hebreus 11:1" },
+  { "dia": 264, "texto": "Mas sem fé é impossível agradar-lhe; porque é necessário que aquele que se aproxima de Deus creia que ele existe, e que é galardoador dos que o buscam.", "ref": "Hebreus 11:6" },
+  { "dia": 265, "texto": "Jesus Cristo é o mesmo, ontem, e hoje, e eternamente.", "ref": "Hebreus 13:8" },
+  { "dia": 266, "texto": "E o Deus de paz... vos aperfeiçoe em toda a boa obra, para fazerdes a sua vontade.", "ref": "Hebreus 13:20-21" },
+  { "dia": 267, "texto": "Se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente... e ser-lhe-á dada.", "ref": "Tiago 1:5" },
+  { "dia": 268, "texto": "Bem-aventurado o homem que suporta a tentação; porque, quando for provado, receberá a coroa da vida.", "ref": "Tiago 1:12" },
+  { "dia": 269, "texto": "Toda a boa dádiva e todo o dom perfeito vem do alto, descendo do Pai das luzes.", "ref": "Tiago 1:17" },
+  { "dia": 270, "texto": "Sujeitai-vos, pois, a Deus, resisti ao diabo, e ele fugirá de vós.", "ref": "Tiago 4:7" },
+  { "dia": 271, "texto": "Chegai-vos a Deus, e ele se chegará a vós.", "ref": "Tiago 4:8" },
+  { "dia": 272, "texto": "Humilhai-vos perante o Senhor, e ele vos exaltará.", "ref": "Tiago 4:10" },
+  { "dia": 273, "texto": "A oração da fé salvará o doente, e o Senhor o levantará.", "ref": "Tiago 5:15" },
+  { "dia": 274, "texto": "Confessai as vossas culpas uns aos outros... a oração feita por um justo pode muito em seus efeitos.", "ref": "Tiago 5:16" },
+  { "dia": 275, "texto": "Sendo de novo gerados, não de semente corruptível, mas da incorruptível, pela palavra de Deus, viva, e que permanece para sempre.", "ref": "1 Pedro 1:23" },
+  { "dia": 276, "texto": "Mas vós sois a geração eleita, o sacerdócio real, a nação santa, o povo adquirido.", "ref": "1 Pedro 2:9" },
+  { "dia": 277, "texto": "Levando ele mesmo em seu corpo os nossos pecados sobre o madeiro... pelas suas feridas fostes sarados.", "ref": "1 Pedro 2:24" },
+  { "dia": 278, "texto": "Porque os olhos do Senhor estão sobre os justos, e os seus ouvidos atentos às suas orações.", "ref": "1 Pedro 3:12" },
+  { "dia": 279, "texto": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.", "ref": "1 Pedro 5:7" },
+  { "dia": 280, "texto": "E o Deus de toda a graça... ele mesmo vos aperfeiçoará, confirmará, fortificará e fortalecerá.", "ref": "1 Pedro 5:10" },
+  { "dia": 281, "texto": "Pelas quais ele nos tem dado pensamentos mui grandes e preciosas promessas, para que por elas fiqueis participantes da natureza divina.", "ref": "2 Pedro 1:4" },
+  { "dia": 282, "texto": "O Senhor não retarda a sua promessa... mas é longânimo para conosco, não querendo que alguns se percam, senão que todos venham a arrepender-se.", "ref": "2 Pedro 3:9" },
+  { "dia": 283, "texto": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados, e nos purificar de toda a injustiça.", "ref": "1 João 1:9" },
+  { "dia": 284, "texto": "E se alguém pecar, temos um Advogado para com o Pai, Jesus Cristo, o justo.", "ref": "1 João 2:1" },
+  { "dia": 285, "texto": "E esta é a promessa que ele nos fez: a vida eterna.", "ref": "1 João 2:25" },
+  { "dia": 286, "texto": "Vede quão grande amor nos tem concedido o Pai, que fôssemos chamados filhos de Deus.", "ref": "1 João 3:1" },
+  { "dia": 287, "texto": "Amados, agora somos filhos de Deus, e ainda não é manifestado o que havemos de ser. Mas sabemos que, quando ele se manifestar, seremos semelhantes a ele.", "ref": "1 João 3:2" },
+  { "dia": 288, "texto": "Qualquer coisa que lhe pedirmos, dele a receberemos, porque guardamos os seus mandamentos.", "ref": "1 João 3:22" },
+  { "dia": 289, "texto": "Filhinhos, sois de Deus, e já os tendes vencido; porque maior é o que está em vós do que o que está no mundo.", "ref": "1 João 4:4" },
+  { "dia": 290, "texto": "Nisto está o amor, não em que nós tenhamos amado a Deus, mas em que ele nos amou a nós, e enviou seu Filho para propiciação pelos nossos pecados.", "ref": "1 João 4:10" },
+  { "dia": 291, "texto": "No amor não há temor, antes o perfeito amor lança fora o temor.", "ref": "1 João 4:18" },
+  { "dia": 292, "texto": "Nós o amamos a ele porque ele nos amou primeiro.", "ref": "1 João 4:19" },
+  { "dia": 293, "texto": "Porque todo o que é nascido de Deus vence o mundo; e esta é a vitória que vence o mundo, a nossa fé.", "ref": "1 João 5:4" },
+  { "dia": 294, "texto": "E o testemunho é este: que Deus nos deu a vida eterna; e esta vida está em seu Filho.", "ref": "1 João 5:11" },
+  { "dia": 295, "texto": "Estas coisas vos escrevi... para que saibais que tendes a vida eterna, e para que creiais no nome do Filho de Deus.", "ref": "1 João 5:13" },
+  { "dia": 296, "texto": "E esta é a confiança que temos nele, que, se pedirmos alguma coisa, segundo a sua vontade, ele nos ouve.", "ref": "1 João 5:14" },
+  { "dia": 297, "texto": "E, se sabemos que nos ouve em tudo o que pedimos, sabemos que alcançamos as petições que lhe fizemos.", "ref": "1 João 5:15" },
+  { "dia": 298, "texto": "Sabemos que todo aquele que é nascido de Deus não peca; mas o que de Deus é gerado conserva-se a si mesmo, e o maligno não lhe toca.", "ref": "1 João 5:18" },
+  { "dia": 299, "texto": "Ora, àquele que é poderoso para vos guardar de tropeçar, e apresentar-vos irrepreensíveis, com alegria, perante a sua glória.", "ref": "Judas 1:24" },
+  { "dia": 300, "texto": "Eis que vem com as nuvens, e todo o olho o verá.", "ref": "Apocalipse 1:7" }
+  { "dia": 301, "texto": "Não temas as coisas que tens de sofrer... Sê fiel até à morte, e dar-te-ei a coroa da vida.", "ref": "Apocalipse 2:10" },
+  { "dia": 302, "texto": "Ao que vencer, dar-lhe-ei a comer da árvore da vida, que está no meio do paraíso de Deus.", "ref": "Apocalipse 2:7" },
+  { "dia": 303, "texto": "O que vencer será vestido de vestes brancas, e de maneira nenhuma riscarei o seu nome do livro da vida.", "ref": "Apocalipse 3:5" },
+  { "dia": 304, "texto": "Como guardaste a palavra da minha paciência, também eu te guardarei da hora da tentação.", "ref": "Apocalipse 3:10" },
+  { "dia": 305, "texto": "Eis que venho sem demora; guarda o que tens, para que ninguém tome a tua coroa.", "ref": "Apocalipse 3:11" },
+  { "dia": 306, "texto": "Eis que estou à porta, e bato; se alguém ouvir a minha voz, e abrir a porta, entrarei em sua casa, e com ele cearei.", "ref": "Apocalipse 3:20" },
+  { "dia": 307, "texto": "Ao que vencer lhe concederei que se assente comigo no meu trono.", "ref": "Apocalipse 3:21" },
+  { "dia": 308, "texto": "E Deus limpará de seus olhos toda a lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor.", "ref": "Apocalipse 21:4" },
+  { "dia": 309, "texto": "E disse-me o que estava assentado sobre o trono: Eis que faço novas todas as coisas.", "ref": "Apocalipse 21:5" },
+  { "dia": 310, "texto": "Eu sou o Alfa e o Ômega, o princípio e o fim. A quem quer que tiver sede, de graça lhe darei da fonte da água da vida.", "ref": "Apocalipse 21:6" },
+  { "dia": 311, "texto": "Quem vencer, herdará todas as coisas; e eu serei seu Deus, e ele será meu filho.", "ref": "Apocalipse 21:7" },
+  { "dia": 312, "texto": "E ali não haverá mais noite, e não necessitarão de lâmpada nem de luz do sol, porque o Senhor Deus os ilumina.", "ref": "Apocalipse 22:5" },
+  { "dia": 313, "texto": "E eis que cedo venho, e o meu galardão está comigo, para dar a cada um segundo a sua obra.", "ref": "Apocalipse 22:12" },
+  { "dia": 314, "texto": "Aquele que testifica estas coisas diz: Certamente cedo venho. Amém. Ora vem, Senhor Jesus.", "ref": "Apocalipse 22:20" },
+  { "dia": 315, "texto": "A graça de nosso Senhor Jesus Cristo seja com todos vós. Amém.", "ref": "Apocalipse 22:21" },
+  { "dia": 316, "texto": "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a força da minha vida; de quem me recearei?", "ref": "Salmos 27:1" },
+  { "dia": 317, "texto": "Ainda que um exército me cercasse, o meu coração não temeria.", "ref": "Salmos 27:3" },
+  { "dia": 318, "texto": "Uma coisa pedi ao Senhor, e a buscarei: que possa morar na casa do Senhor todos os dias da minha vida.", "ref": "Salmos 27:4" },
+  { "dia": 319, "texto": "Porque no dia da adversidade me esconderá no seu pavilhão; no oculto do seu tabernáculo me esconderá.", "ref": "Salmos 27:5" },
+  { "dia": 320, "texto": "Quando meu pai e minha mãe me desampararem, o Senhor me recolherá.", "ref": "Salmos 27:10" },
+  { "dia": 321, "texto": "Espera no Senhor, anima-te, e ele fortalecerá o teu coração.", "ref": "Salmos 27:14" },
+  { "dia": 322, "texto": "O Senhor é a minha força e o meu escudo; nele confiou o meu coração, e fui socorrido.", "ref": "Salmos 28:7" },
+  { "dia": 323, "texto": "O Senhor dará força ao seu povo; o Senhor abençoará o seu povo com paz.", "ref": "Salmos 29:11" },
+  { "dia": 324, "texto": "Em ti, Senhor, confio; nunca me deixes confundido; livra-me pela tua justiça.", "ref": "Salmos 31:1" },
+  { "dia": 325, "texto": "Sê tu a minha rocha fortíssima, uma casa de defesa que me salve.", "ref": "Salmos 31:2" },
+  { "dia": 326, "texto": "Nas tuas mãos encomendo o meu espírito; tu me remiste, Senhor Deus da verdade.", "ref": "Salmos 31:5" },
+  { "dia": 327, "texto": "Mas eu confiei em ti, Senhor; e disse: Tu és o meu Deus. Os meus tempos estão nas tuas mãos.", "ref": "Salmos 31:14-15" },
+  { "dia": 328, "texto": "Faze resplandecer o teu rosto sobre o teu servo; salva-me por tua misericórdia.", "ref": "Salmos 31:16" },
+  { "dia": 329, "texto": "Oh! quão grande é a tua bondade, que guardaste para os que te temem.", "ref": "Salmos 31:19" },
+  { "dia": 330, "texto": "Tu os esconderás, no secreto da tua presença, dos fuxicos dos homens.", "ref": "Salmos 31:20" },
+  { "dia": 331, "texto": "Amai ao Senhor, vós todos os que sois seus santos; porque o Senhor guarda os fiéis.", "ref": "Salmos 31:23" },
+  { "dia": 332, "texto": "Esforçai-vos, e ele fortalecerá o vosso coração, vós todos os que esperais no Senhor.", "ref": "Salmos 31:24" },
+  { "dia": 333, "texto": "Bem-aventurado aquele cuja transgressão é perdoada, e cujo pecado é coberto.", "ref": "Salmos 32:1" },
+  { "dia": 334, "texto": "Tu és o lugar em que me escondo; tu me preservas da angústia; tu me cercas de alegres cantos de livramento.", "ref": "Salmos 32:7" },
+  { "dia": 335, "texto": "Instruir-te-ei, e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus olhos.", "ref": "Salmos 32:8" },
+  { "dia": 336, "texto": "Mas o que confia no Senhor, a misericórdia o cercará.", "ref": "Salmos 32:10" },
+  { "dia": 337, "texto": "A nossa alma espera no Senhor; ele é o nosso auxílio e o nosso escudo.", "ref": "Salmos 33:20" },
+  { "dia": 338, "texto": "Pois nele se alegra o nosso coração; porquanto apresentamos confiança no seu santo nome.", "ref": "Salmos 33:21" },
+  { "dia": 339, "texto": "Seja a tua misericórdia, Senhor, sobre nós, como em ti esperamos.", "ref": "Salmos 33:22" },
+  { "dia": 340, "texto": "Busquei ao Senhor, e ele me respondeu; livrou-me de todos os meus temores.", "ref": "Salmos 34:4" },
+  { "dia": 341, "texto": "Olharam para ele, e foram iluminados; e os seus rostos não ficaram confundidos.", "ref": "Salmos 34:5" },
+  { "dia": 342, "texto": "Clamou este pobre, e o Senhor o ouviu, e o salvou de todas as suas angústias.", "ref": "Salmos 34:6" },
+  { "dia": 343, "texto": "O anjo do Senhor acampa-se ao redor dos que o temem, e os livra.", "ref": "Salmos 34:7" },
+  { "dia": 344, "texto": "O Senhor está longe dos ímpios, mas ouve a oração dos justos.", "ref": "Provérbios 15:29" },
+  { "dia": 345, "texto": "Quando os caminhos do homem agradam ao Senhor, faz que até os seus inimigos tenham paz com ele.", "ref": "Provérbios 16:7" },
+  { "dia": 346, "texto": "O coração do homem traça o seu caminho, mas o Senhor lhe dirige os passos.", "ref": "Provérbios 16:9" },
+  { "dia": 347, "texto": "O que atenta prudentemente para a palavra achará o bem; e o que confia no Senhor será bem-aventurado.", "ref": "Provérbios 16:20" },
+  { "dia": 348, "texto": "O homem de muitos amigos deve mostrar-se amigável, mas há um amigo mais chegado do que um irmão.", "ref": "Provérbios 18:24" },
+  { "dia": 349, "texto": "Pela misericórdia e verdade a iniquidade é perdoada.", "ref": "Provérbios 16:6" },
+  { "dia": 350, "texto": "A herança que no princípio é adquirida às pressas, no fim não será abençoada. (Mas a bênção do Senhor enriquece).", "ref": "Provérbios 20:21" },
+  { "dia": 351, "texto": "Não digas: Vingar-me-ei do mal; espera pelo Senhor, e ele te livrará.", "ref": "Provérbios 20:22" },
+  { "dia": 352, "texto": "A bênção do Senhor é que enriquece; e não traz consigo dores.", "ref": "Provérbios 10:22" },
+  { "dia": 353, "texto": "O que trabalha com mão enganosa empobrece, mas a mão dos diligentes enriquece.", "ref": "Provérbios 10:4" },
+  { "dia": 354, "texto": "O que guarda a sua boca preserva a sua vida.", "ref": "Provérbios 13:3" },
+  { "dia": 355, "texto": "A esperança que se adia adoece o coração, mas o desejo cumprido é árvore de vida.", "ref": "Provérbios 13:12" },
+  { "dia": 356, "texto": "Onde não há bois o presépio está limpo, mas pela força do boi há abundância de colheita.", "ref": "Provérbios 14:4" },
+  { "dia": 357, "texto": "O coração em paz dá vida ao corpo.", "ref": "Provérbios 14:30" },
+  { "dia": 358, "texto": "No temor do Senhor há firme confiança e ele será um refúgio para os seus filhos.", "ref": "Provérbios 14:26" },
+  { "dia": 359, "texto": "O temor do Senhor é fonte de vida, para desviar dos laços da morte.", "ref": "Provérbios 14:27" },
+  { "dia": 360, "texto": "A resposta branda desvia o furor, mas a palavra dura suscita a ira.", "ref": "Provérbios 15:1" },
+  { "dia": 361, "texto": "O Senhor é o que te guarda; o Senhor é a tua sombra à tua mão direita.", "ref": "Salmos 121:5" },
+  { "dia": 362, "texto": "O Senhor guardará a tua saída e a tua entrada, desde agora e para sempre.", "ref": "Salmos 121:8" },
+  { "dia": 363, "texto": "Grandes coisas fez o Senhor por nós, pelas quais estamos alegres.", "ref": "Salmos 126:3" },
+  { "dia": 364, "texto": "Aquele que leva a preciosa semente, andando e chorando, voltará, sem dúvida, com alegria, trazendo consigo os seus feixes.", "ref": "Salmos 126:6" },
+  { "dia": 365, "texto": "Se o Senhor não edificar a casa, em vão trabalham os que a edificam.", "ref": "Salmos 127:1" },
+  { "dia": 366, "texto": "Eis que assim será abençoado o homem que teme ao Senhor.", "ref": "Salmos 128:4" }
 ]
+
